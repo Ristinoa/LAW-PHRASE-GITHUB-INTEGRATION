@@ -1,84 +1,84 @@
-249 "Atrás"
-250 "Historia"
-251 "Skip"
+249「戻る」
+250「歴史」
+251「スキップ」
 252 "Auto"
 253 "Save"
 254 "Q.Save"
 255 "Q.Load"
-256 "Prefijos"
+256 "Prefs"
 302 "Start"
 310 "Load"
-312 "Preferencias"
-316 "Fin de la repetición"
-320 "Menú principal"
-322 "Acerca de"
-327 "Ayuda"
-333 "Quit"
-478 "Regresar"
-562 "Versión [config.version!t]\n"
+312 "Preferences"
+316「エンドリプレイ」
+320「メインメニュー」
+322 「概要」
+327「ヘルプ」
+333 「終了」
+478「リターン」
+562 "Version [config.version!t]\n"
 568 "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-604 "Página {}"
-604 "Guardado automático"
-604 "Paradas rápidas"
+604「ページ{}」
+604「自動保存」
+604「クイックセーブ」
 646 "{#file_time}%A, %B %d %Y, %H:%M"
-646 "ranura vacía"
+646 "empty slot"
 666 "<"
 670 "{#auto_page}A"
 673 "{#quick_page}Q"
 679 ">"
-684 "Sincronización de carga"
-688 "Sincronización de descargas"
-748 "Pantalla"
-749 "Ventana"
-750 "Fullscreen"
-755 "Texto no visto"
-756 "Después de las decisiones"
-757 "Transiciones"
-767 "Idioma"
-783 "Velocidad de texto"
-787 "Avance automático de la hora"
-794 "Volumen de música"
-801 "Volumen de sonido"
+684「アップロード同期」
+688「ダウンロード同期」
+748「ディスプレイ」
+749 "Window"
+750「フルスクリーン」
+755「見えないテキスト」
+756「選択の後」
+757「トランジションズ」
+767「言語」
+783 "Text Speed"
+787「自動時間転送」
+794「音楽の音量」
+801「音量」
 807 "Test"
-811 "Volumen de voz"
-822 "Silenciar todo"
-941 "El historial de diálogos está vacío."
-1009 "Teclado"
-1010 "Mouse"
+811「音声ボリューム」
+822 「すべてミュート」
+941「対話履歴は空です。」
+1009 "Keyboard"
+1010「マウス」
 1013 "Gamepad"
-1026 "Enter"
-1027 "Avanza el diálogo y activa la interfaz."
+1026 「エンター」
+1027 「対話を進め、インターフェースをアクティブ化する。」
 1030 "Space"
-1031 "Fomenta el diálogo sin seleccionar opciones."
-1034 "Teclas de flecha"
-1035 "Navegue por la interfaz."
+1031「選択肢を選ばずに対話を進める。」
+1034「矢印キー」
+1035「インターフェースを操作する。」
 1038 "Escape"
-1039 "Accede al menú del juego."
+1039「ゲームメニューにアクセスします。」
 1042 "Ctrl"
-1043 "Omite el diálogo mientras se mantiene pulsado."
+1043 「押さえつけられている間は会話をスキップする。」
 1046 "Tab"
-1047 "Activa o desactiva la omisión de diálogos."
-1050 "Re Pág."
-1051 "Retoma el diálogo anterior."
-1054 "Av Pág"
-1055 "Avanza a un diálogo posterior."
-1059 "Oculta la interfaz de usuario."
-1063 "Toma una captura de pantalla."
+1047「会話スキップの切り替え」
+1050「ページアップ」
+1051「以前の会話に戻る。」
+1054「ページダウン」
+1055「後の対話へと進む。」
+1059「ユーザーインターフェースを非表示にします。」
+1063 「スクリーンショットを撮ります。」
 1067 "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-1071 "Abre el menú de accesibilidad."
-1077 "Clic izquierdo"
-1081 "Clic central"
-1085 "Clic derecho"
-1089 "Rueda del ratón hacia arriba"
-1093 "Rueda del ratón hacia abajo"
-1100 "Gatillo derecho\nA/Botón inferior"
-1104 "Gatillo izquierdo\nHombro izquierdo"
-1108 "Hombro derecho"
-1112 "D-Pad, Joysticks"
-1116 "Inicio, Guía, Botón B/Derecha"
-1120 "Y/Botón superior"
-1123 "Calibrar"
-1188 "Sí"
-1189 "No"
-1235 "Saltando"
-1549 "Menú"
+1071 「アクセシビリティメニューを開きます。」
+1077「左クリック」
+1081「ミドルクリック」
+1085 「右クリック」
+1089「マウスホイールを上に」
+1093「マウスホイールを下へ」
+1100 "Right Trigger\nA/Bottom Button"
+1104 "Left Trigger\nLeft Shoulder"
+1108「右肩」
+1112 「Dパッド、スティック」
+1116 "Start, Guide, B/Right Button"
+1120 「Y/トップボタン」
+1123 「キャリブレーション」
+1188 「はい」
+1189 「いいえ」
+1235「スキップ」
+1549「メニュー」
