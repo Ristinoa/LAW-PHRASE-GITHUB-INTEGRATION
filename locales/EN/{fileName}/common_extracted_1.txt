@@ -1,0 +1,305 @@
+28 „Klicken Sie hier, um das Video abzuspielen.“
+28 „Selbstäußerungsstörung“.
+29 „Sprachausgabe über die Zwischenablage aktiviert.“
+30 „Selbstvertonung aktiviert.“
+32 "bar"
+33 „ausgewählt“
+34 "viewport"
+35 „horizontale Schriftrolle“
+36 „vertikale Bildlaufrolle“
+37 "aktivieren"
+38 "deaktivieren"
+39 "Erhöhung"
+40 "Abnahme"
+134 „Selbstinszenierung“
+137 „Die Unterstützung für Selbstsprecher ist bei der Verwendung eines Touchscreens eingeschränkt.“
+139 "Aus"
+143 „Text-to-Speech“
+147 „Klemmbrett“
+151 "Debug"
+163 "Zurücksetzen"
+167 „Selbststimmende Lautstärkeabsenkung“
+180 "Mono-Audio"
+182 "Aktivieren"
+186 "Behinderung"
+198 "Schriftartüberschreibung"
+200 "Standard"
+204 "DejaVu Sans"
+208 "Opendyslexic"
+212 „Text mit hohem Kontrast“
+224 „Textgrößenanpassung“
+235 „Zeilenabstandsskalierung“
+246 "Kerning"
+267 „Barrierefreiheitsmenü“. Verwenden Sie die Pfeiltasten nach oben und unten zur Navigation und die Eingabetaste, um Schaltflächen und Leisten zu aktivieren.
+288 „Selbstvertonung und Audio“
+292 "Text"
+306 „Die Optionen in diesem Menü sollen die Zugänglichkeit verbessern.“ Sie funktionieren möglicherweise nicht mit allen Spielen, und manche Optionskombinationen können das Spiel unspielbar machen. Das Problem liegt nicht am Spiel oder an der Engine. Um beim Ändern der Schriftart optimale Ergebnisse zu erzielen, sollten Sie die Textgröße möglichst beibehalten.
+26 "{#weekday}Montag"
+26 "{#weekday}Dienstag"
+26 "{#weekday}Mittwoch"
+26 "{#weekday}Donnerstag"
+26 "{#weekday}Freitag"
+26 "{#weekday}Samstag"
+26 "{#weekday}Sonntag"
+37 "{#weekday_short}Mon"
+37 "{#weekday_short}Tue"
+37 "{#weekday_short}Wed"
+37 "{#weekday_short}Thu"
+37 "{#weekday_short}Fri"
+37 "{#weekday_short}Sat"
+37 "{#weekday_short}Sun"
+47 "{#month}Januar"
+47 "{#month}Februar"
+47 "{#month}March"
+47 "{#month}April"
+47 "{#month}Mai"
+47 "{#month}Juni"
+47 "{#month}July"
+47 "{#month}August"
+47 "{#month}September"
+47 "{#month}Oktober"
+47 "{#month}November"
+47 "{#month}Dezember"
+63 "{#month_short}Jan"
+63 "{#month_short}Feb"
+63 "{#month_short}Mar"
+63 "{#month_short}Apr"
+63 "{#month_short}May"
+63 "{#month_short}Jun"
+63 "{#month_short}Jul"
+63 "{#month_short}Aug"
+63 "{#month_short}Sep"
+63 "{#month_short}Oct"
+63 "{#month_short}Nov"
+63 "{#month_short}Dec"
+258 "%b %d, %H:%M"
+395 "Speicherplatz %s speichern: [Text]"
+481 "Lade Slot %s: [Text]"
+534 "Löschen Sie den Slot [Text]"
+613 "Dateiseite automatisch"
+615 "Dateiseite schnell"
+617 "Dateiseite [Text]"
+816 "Nächste Dateiseite."
+888 "Vorherige Dateiseite."
+949 „Schnellspeicherung abgeschlossen.“
+964 "Schnell speichern."
+983 "Schnellladung."
+416 "Sprache [Text]"
+786 "Öffne das [Text-]Verzeichnis."
+712 „Der interaktive Regisseur ist hier nicht aktiviert.“
+1512 "⬆"
+1518 "⬇"
+1582 "Fertig"
+1592 "(Aussage)"
+1593 "(Tag)"
+1594 "(Attribute)"
+1595 "(transform)"
+1620 "(transition)"
+1632 "(Kanal)"
+1633 "(Dateiname)"
+1662 "Wechsel"
+1664 "Hinzufügen"
+1667 "Abbrechen"
+1670 "Entfernen"
+1705 "Statement:"
+1726 "Tag:"
+1742 "Attribute:"
+1753 „Klicken Sie, um das Attribut umzuschalten, klicken Sie mit der rechten Maustaste, um das negative Attribut umzuschalten.“
+1765 "Transformationen:"
+1776 „Klicken Sie, um die Transformation festzulegen, klicken Sie mit der rechten Maustaste, um das Produkt zur Transformationsliste hinzuzufügen.“
+1777 „Passen Sie director.transforms an, um weitere Transformationen hinzuzufügen.“
+1789 "Behind:"
+1800 „Zum Festlegen klicken, mit der rechten Maustaste klicken, um zur Liste hinzuzufügen.“
+1812 "Transition:"
+1822 "Zum Einstellen klicken."
+1823 „Passen Sie director.transitions an, um weitere Übergänge hinzuzufügen.“
+1835 "Kanal:"
+1846 „Passen Sie director.audio_channels an, um weitere Kanäle hinzuzufügen.“
+1858 "Audio Filename:"
+448 "Sind Sie sicher?"
+449 "Sind Sie sicher, dass Sie diesen Spielstand löschen möchten?"
+450 "Sind Sie sicher, dass Sie Ihren Spielstand überschreiben möchten?"
+451 „Beim Laden gehen nicht gespeicherte Fortschritte verloren.\nSind Sie sicher, dass Sie dies tun möchten?“
+452 "Sind Sie sicher, dass Sie aufhören wollen?"
+453 "Möchten Sie wirklich zum Hauptmenü zurückkehren?\nDadurch gehen nicht gespeicherte Spielfortschritte verloren."
+454 „Sind Sie sicher, dass Sie dort weitermachen möchten, wo Sie aufgehört haben?“
+455 "Sind Sie sicher, dass Sie die Wiederholung beenden möchten?"
+456 "Bist du sicher, dass du mit dem Seilspringen anfangen willst?"
+457 „Sind Sie sicher, dass Sie zur nächsten Auswahlmöglichkeit springen möchten?“
+458 „Sind Sie sicher, dass Sie den nicht sichtbaren Dialog überspringen und zur nächsten Auswahlmöglichkeit gelangen möchten?“
+459 „Dieser Spielstand wurde auf einem anderen Gerät erstellt.“ Böswillig erstellte Speicherdateien können Ihrem Computer schaden. Vertraust du dem Ersteller dieses Spielstands und allen, die die Datei verändert haben könnten?
+460 "Vertrauen Sie dem Gerät, auf dem der Spielstand erstellt wurde?" Sie sollten nur dann „Ja“ auswählen, wenn Sie der einzige Benutzer des Geräts sind.
+325 "Screenshot konnte nicht als %s gespeichert werden."
+346 „Screenshot gespeichert als %s.“
+257 "Überspringmodus"
+344 „Dieses Programm enthält freie Software unter einer Reihe von Lizenzen, darunter die MIT-Lizenz und die GNU Lesser General Public License. Eine vollständige Liste der Software, einschließlich Links zum vollständigen Quellcode, finden Sie {a=https://www.renpy.org/l/license}hier{/a}.
+295 "display"
+315 "transitions"
+324 "Übergänge überspringen"
+326 „Video-Sprites“
+335 "leeres Fenster anzeigen"
+344 "Textgeschwindigkeit"
+352 "joystick"
+352 "Joystick..."
+359 "skip"
+362 "ungesehenen Text überspringen"
+367 "Ungesehenen Text überspringen"
+369 "beginne zu überspringen"
+373 „nach den Entscheidungen“
+380 "Nach den Auswahlmöglichkeiten überspringen"
+382 „automatische Zeitvorspulung“
+396 "auto-forward"
+403 "Automatische Vorwärtsfahrt"
+406 „Automatische Weiterleitung nach Klick“
+415 "automatischer Umzug"
+424 "Warten auf Stimme"
+433 "Stimmhaltung"
+442 „Selbststimmgebung“
+445 "Selbstvertonung aktivieren"
+447 "Selbstauskunft deaktiviert"
+451 „Selbststimmen-Lautstärkeabfall“
+459 "Klemmbrett-Stimmung"
+462 "Zwischenablage-Sprachausgabe aktivieren"
+464 "Zwischenablage-Sprachausgabe deaktivieren"
+468 "Debug-Stimme"
+471 "Debug-Sprachausgabe aktivieren"
+473 "Debug-Sprachausgabe deaktivieren"
+477 "Audio hervorheben"
+486 "Rollback-Seite"
+496 "gl powersave"
+502 "gl framerate"
+505 "gl tearing"
+508 "Schriftarttransformation"
+511 "Schriftgröße"
+519 "Schriftzeilenabstand"
+527 "Systemcursor"
+536 "Renderer-Menü"
+539 „Barrierefreiheitsmenü“
+542 „Text mit hohem Kontrast“
+551 "Audio bei minimiertem Fenster"
+560 "Audio bei fehlendem Fokus"
+569 "Web-Cache-Vorladen"
+584 „Sprachausgabe nach dem Spielmenü“
+593 "Fensterposition wiederherstellen"
+602 "Mono-Audio"
+611 "Schriftkernung"
+619 "reset"
+632 „Hauptvolumen“
+633 "Musiklautstärke"
+634 „Lautstärke“
+635 "Lautstärke"
+636 "Hauptmodus stummschalten"
+637 "Musik stumm"
+638 "Stummer Ton"
+639 "stumme Stimme"
+640 "Alle stummschalten"
+723 "Zwischenablage-Sprachausgabe aktiviert." Drücken Sie „Umschalt+C“, um die Funktion zu deaktivieren.
+725 "Self-voicing would say \"[renpy.display.tts.last]\". Drücken Sie „Alt+Umschalt+V“, um die Funktion zu deaktivieren.
+727 "Selbstvertonung aktiviert." Drücken Sie „v“, um zu deaktivieren.
+420 „Sprechblasen-Editor“
+425 "(ausblenden)"
+436 "(klare Restblasen)"
+70 „Sync heruntergeladen.“
+184 „Verbindung zum Ren'Py Sync-Server konnte nicht hergestellt werden.“
+186 „Der Ren'Py Sync-Server hat eine Zeitüberschreitung erreicht.“
+188 „Beim Verbinden mit dem Ren'Py Sync-Server ist ein unbekannter Fehler aufgetreten.“
+204 „Der Ren'Py Sync-Server besitzt keine Kopie dieser Synchronisierung.“ Die Synchronisierungs-ID ist möglicherweise ungültig oder es ist zu einem Timeout gekommen.“
+305 „Bitte geben Sie die von Ihnen generierte Synchronisierungs-ID ein.\nGeben Sie niemals eine Synchronisierungs-ID ein, die Sie nicht selbst erstellt haben.“
+324 „Die Synchronisierungs-ID hat nicht das richtige Format.“
+344 „Die Synchronisierung konnte nicht entschlüsselt werden.“
+367 „Die Synchronisierung gehört zu einem anderen Spiel.“
+372 „Die Synchronisierung enthält eine Datei mit einem ungültigen Namen.“
+425 „Dadurch werden Ihre Spielstände auf den {a=https://sync.renpy.org}Ren'Py Sync Server{/a} hochgeladen.\nMöchten Sie fortfahren?"
+457 „Synchronisierungs-ID eingeben“
+468 „Dadurch wird der {a=https://sync.renpy.org}Ren'Py Sync Server{/a} kontaktiert.“
+498 „Synchronisierung erfolgreich“
+501 „Die Synchronisierungs-ID lautet:“
+507 „Mit dieser ID können Sie Ihren Spielstand auf ein anderes Gerät herunterladen.\nDiese Synchronisierung läuft in einer Stunde ab.\nRen'Py Sync wird unterstützt von {a=https://www.renpy.org/sponsors.html}den Sponsoren von Ren'Py{/a}."
+511 "Weiter"
+536 "Synchronisierungsfehler"
+63 "Übersetzungskennung: [Kennung]"
+84 " translates [tl.filename]:[tl.linenumber]"
+101 "\n{color=#fff}In die Zwischenablage kopiert.{/color}"
+231 „App Store wird kontaktiert\nBitte warten...“
+415 „Keine Aktualisierungsmethoden gefunden.“
+462 "Dateiliste konnte nicht heruntergeladen werden: "
+465 "Die Dateiliste stimmt nicht überein."
+675 „Es wird ein Fehler simuliert.“
+863 „Entweder unterstützt dieses Projekt keine Aktualisierungen, oder die Aktualisierungsstatusdatei wurde gelöscht.“
+877 „Dieses Konto hat keine Berechtigung, ein Update durchzuführen.“
+880 „Dieses Konto hat keine Berechtigung, das Aktualisierungsprotokoll zu schreiben.“
+966 „Die Aktualisierungssignatur konnte nicht verifiziert werden.“
+1289 „Die Aktualisierungsdatei wurde nicht heruntergeladen.“
+1307 „Die Aktualisierungsdatei hat nicht den korrekten Digest – sie ist möglicherweise beschädigt.“
+1457 "Beim Auspacken von {}, unbekannter Typ {}."
+1928 "Aktualisierer"
+1935 „Es ist ein Fehler aufgetreten:“
+1937 „Überprüfe auf Aktualisierungen.“
+1939 „Dieses Programm ist auf dem neuesten Stand.“
+1941 "[u.version] ist verfügbar. Möchtest du es installieren?
+1943 „Vorbereitung zum Herunterladen der Aktualisierungen.“
+1945 „Die Aktualisierungen werden heruntergeladen.“
+1947 „Die Neuerungen im Detail“.
+1949 „Fertigstellung“.
+1951 „Die Aktualisierungen wurden installiert.“ Das Programm wird neu gestartet.
+1953 „Die Aktualisierungen wurden installiert.“
+1955 „Die Modernisierungen wurden abgesagt.“
+1970 "Proceed"
+1986 „Vorbereitung zum Herunterladen der Spieldaten.“
+1988 „Herunterladen der Spieldaten.“
+1990 „Die Spieldaten wurden heruntergeladen.“
+1992 „Beim Herunterladen der Spieldaten ist ein Fehler aufgetreten:“
+1997 „Dieses Spiel kann erst ausgeführt werden, nachdem die Spieldaten heruntergeladen wurden.“
+2004 "Wiederholen"
+676 "Bild [Index] von [Anzahl] gesperrt."
+696 "prev"
+697 "nächstes"
+698 „Diashow“
+699 "Rückgabe"
+89 "Renderer"
+91 „Automatisch auswählen“
+96 "GL2-Renderer erzwingen"
+101 "Force ANGLE2 Renderer"
+106 "GLES2-Renderer erzwingen"
+112 "Aktivieren (Keine Sperrliste)"
+135 „Energiesparmodus“
+145 "Bildrate"
+147 "Bildschirm"
+151 "60"
+155 "30"
+159 "Zerreißen"
+171 „Die Änderungen treten bei der nächsten Durchführung dieses Programms in Kraft.“
+207 „Leistungswarnung“
+212 „Dieser Computer verwendet Software-Rendering.“
+214 „Dieses Spiel erfordert die Verwendung von GL2, das nicht initialisiert werden kann.“
+216 "Dieser Computer hat ein Problem mit der Grafikdarstellung: [Problem]."
+220 „Seine Grafiktreiber sind möglicherweise veraltet oder funktionieren nicht ordnungsgemäß.“ Dies kann zu einer langsamen oder fehlerhaften Grafikdarstellung führen.“
+224 „Die Datei {a=edit:1:log.txt}log.txt{/a} kann Informationen enthalten, die Ihnen helfen, die Ursache des Problems mit Ihrem Computer zu ermitteln.“
+229 „Weitere Details zur Behebung dieses Problems finden Sie in der {a=[url]}Dokumentation{/a}.“
+234 „Weiter, diese Warnung erneut anzeigen“
+238 "Fortfahren, keine Warnung mehr anzeigen"
+246 „Rendering-Optionen ändern“
+33 "Gamepad zum Kalibrieren auswählen"
+36 „Keine Gamepads verfügbar“
+56 "Kalibrierung von [Name] ([i]/[Gesamt])"
+60 "Drücken oder bewegen Sie die '[Steuerung!s]' [Art]."
+70 "Überspringen (A)"
+73 "Back (B)"
+73 "Offen"
+73 „Öffnet die Datei traceback.txt in einem Texteditor.“
+73 "Copy BBCode"
+73 "Kopiert die Datei traceback.txt als BBCode in die Zwischenablage für Foren wie https://lemmasoft.renai.us/."
+73 "Copy Markdown"
+73 "Kopiert die Datei traceback.txt als Markdown für Discord in die Zwischenablage."
+73 „Es ist ein Ausnahmefall eingetreten.“
+73 "Rollback"
+73 „Versucht, zu einem früheren Zeitpunkt zurückzukehren, sodass Sie eine andere Auswahl speichern oder treffen können.“
+73 "Ignorieren"
+73 „Ignoriert die Ausnahme, sodass Sie fortfahren können.“
+73 "Ignoriert die Ausnahme, sodass Sie fortfahren können." Dies führt häufig zu weiteren Fehlern.
+73 "Nachladen"
+73 „Lädt das Spiel von der Disk neu und speichert bzw. stellt den Spielstand nach Möglichkeit wieder her.“
+73 "Konsole"
+73 „Öffnet eine Konsole, um die Fehlersuche zu ermöglichen.“
+73 "Hört auf zu spielen."
+73 „Fehler beim Parsen des Skripts.“
