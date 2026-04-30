@@ -1,46 +1,46 @@
-28 „Klicken Sie hier, um das Video abzuspielen.“
-28 „Selbstäußerungsstörung“.
-29 „Sprachausgabe über die Zwischenablage aktiviert.“
-30 „Selbstvertonung aktiviert.“
+28 "Haz clic para reproducir el vídeo."
+28 "Discapacidad para expresarse por sí mismo".
+29 "Función de voz en el portapapeles habilitada."
+30 "Autoexpresión habilitada."
 32 "bar"
-33 „ausgewählt“
-34 "viewport"
-35 „horizontale Schriftrolle“
-36 „vertikale Bildlaufrolle“
-37 "aktivieren"
-38 "deaktivieren"
-39 "Erhöhung"
-40 "Abnahme"
-134 „Selbstinszenierung“
-137 „Die Unterstützung für Selbstsprecher ist bei der Verwendung eines Touchscreens eingeschränkt.“
-139 "Aus"
-143 „Text-to-Speech“
-147 „Klemmbrett“
-151 "Debug"
-163 "Zurücksetzen"
-167 „Selbststimmende Lautstärkeabsenkung“
-180 "Mono-Audio"
-182 "Aktivieren"
-186 "Behinderung"
-198 "Schriftartüberschreibung"
-200 "Standard"
+33 "seleccionados"
+34 "ventana"
+35 "desplazamiento horizontal"
+36 "desplazamiento vertical"
+37 "activar"
+38 "desactivar"
+39 "aumentar"
+40 "decrease"
+134 "Autoexpresión"
+137 "La compatibilidad con la función de voz propia es limitada al usar una pantalla táctil."
+139 "Apagado"
+143 "Text-to-speech"
+147 "Clipboard"
+151 "Depurar"
+163 "Reiniciar"
+167 "Caída de volumen con auto-voz"
+180 "Mono Audio"
+182 "Habilitar"
+186 "Inhabilitar"
+198 "Anulación de fuente"
+200 "Predeterminado"
 204 "DejaVu Sans"
 208 "Opendyslexic"
-212 „Text mit hohem Kontrast“
-224 „Textgrößenanpassung“
-235 „Zeilenabstandsskalierung“
+212 "Texto de alto contraste"
+224 "Ajuste del tamaño del texto"
+235 "Escalado del espaciado entre líneas"
 246 "Kerning"
-267 „Barrierefreiheitsmenü“. Verwenden Sie die Pfeiltasten nach oben und unten zur Navigation und die Eingabetaste, um Schaltflächen und Leisten zu aktivieren.
-288 „Selbstvertonung und Audio“
+267 "Menú de accesibilidad. Utilice las flechas arriba y abajo para navegar, y la tecla Enter para activar los botones y las barras.
+288 "Voz propia y audio"
 292 "Text"
-306 „Die Optionen in diesem Menü sollen die Zugänglichkeit verbessern.“ Sie funktionieren möglicherweise nicht mit allen Spielen, und manche Optionskombinationen können das Spiel unspielbar machen. Das Problem liegt nicht am Spiel oder an der Engine. Um beim Ändern der Schriftart optimale Ergebnisse zu erzielen, sollten Sie die Textgröße möglichst beibehalten.
-26 "{#weekday}Montag"
-26 "{#weekday}Dienstag"
-26 "{#weekday}Mittwoch"
-26 "{#weekday}Donnerstag"
-26 "{#weekday}Freitag"
-26 "{#weekday}Samstag"
-26 "{#weekday}Sonntag"
+306 "Las opciones de este menú están diseñadas para mejorar la accesibilidad. Es posible que no funcionen con todos los juegos, y algunas combinaciones de opciones pueden hacer que el juego sea injugable. Esto no es un problema del juego ni del motor. Para obtener los mejores resultados al cambiar la fuente, intente mantener el tamaño del texto igual al original.
+26 "{#weekday}Lunes"
+26 "{#weekday}Martes"
+26 "{#weekday}Miércoles"
+26 "{#weekday}Jueves"
+26 "{#weekday}viernes"
+26 "{#día de la semana}Sábado"
+26 "{#weekday}Domingo"
 37 "{#weekday_short}Mon"
 37 "{#weekday_short}Tue"
 37 "{#weekday_short}Wed"
@@ -48,18 +48,18 @@
 37 "{#weekday_short}Fri"
 37 "{#weekday_short}Sat"
 37 "{#weekday_short}Sun"
-47 "{#month}Januar"
-47 "{#month}Februar"
+47 "{#month}Enero"
+47 "{#month}Febrero"
 47 "{#month}March"
-47 "{#month}April"
-47 "{#month}Mai"
-47 "{#month}Juni"
-47 "{#month}July"
-47 "{#month}August"
-47 "{#month}September"
-47 "{#month}Oktober"
-47 "{#month}November"
-47 "{#month}Dezember"
+47 "{#month}Abril"
+47 "{#month}May"
+47 "{#month}Junio"
+47 "{#month}Julio"
+47 "{#month}Agosto"
+47 "{#month}Septiembre"
+47 "{#month}October"
+47 "{#month}Noviembre"
+47 "{#month}Diciembre"
 63 "{#month_short}Jan"
 63 "{#month_short}Feb"
 63 "{#month_short}Mar"
@@ -73,233 +73,233 @@
 63 "{#month_short}Nov"
 63 "{#month_short}Dec"
 258 "%b %d, %H:%M"
-395 "Speicherplatz %s speichern: [Text]"
-481 "Lade Slot %s: [Text]"
-534 "Löschen Sie den Slot [Text]"
-613 "Dateiseite automatisch"
-615 "Dateiseite schnell"
-617 "Dateiseite [Text]"
-816 "Nächste Dateiseite."
-888 "Vorherige Dateiseite."
-949 „Schnellspeicherung abgeschlossen.“
-964 "Schnell speichern."
-983 "Schnellladung."
-416 "Sprache [Text]"
-786 "Öffne das [Text-]Verzeichnis."
-712 „Der interaktive Regisseur ist hier nicht aktiviert.“
+395 "Guardar espacio %s: [texto]"
+481 "Cargar ranura %s: [texto]"
+534 "Eliminar ranura [texto]"
+613 "Página de archivo automática"
+615 "Página de archivo rápida"
+617 "Página de archivo [texto]"
+816 "Página siguiente del archivo."
+888 "Página del archivo anterior."
+949 "Guardado rápido completado."
+964 "Guardado rápido."
+983 "Carga rápida."
+416 "Idioma [texto]"
+786 "Open [text] directory."
+712 "El director interactivo no está habilitado aquí."
 1512 "⬆"
 1518 "⬇"
-1582 "Fertig"
-1592 "(Aussage)"
-1593 "(Tag)"
-1594 "(Attribute)"
-1595 "(transform)"
-1620 "(transition)"
-1632 "(Kanal)"
-1633 "(Dateiname)"
-1662 "Wechsel"
-1664 "Hinzufügen"
-1667 "Abbrechen"
-1670 "Entfernen"
-1705 "Statement:"
-1726 "Tag:"
-1742 "Attribute:"
-1753 „Klicken Sie, um das Attribut umzuschalten, klicken Sie mit der rechten Maustaste, um das negative Attribut umzuschalten.“
-1765 "Transformationen:"
-1776 „Klicken Sie, um die Transformation festzulegen, klicken Sie mit der rechten Maustaste, um das Produkt zur Transformationsliste hinzuzufügen.“
-1777 „Passen Sie director.transforms an, um weitere Transformationen hinzuzufügen.“
-1789 "Behind:"
-1800 „Zum Festlegen klicken, mit der rechten Maustaste klicken, um zur Liste hinzuzufügen.“
-1812 "Transition:"
-1822 "Zum Einstellen klicken."
-1823 „Passen Sie director.transitions an, um weitere Übergänge hinzuzufügen.“
-1835 "Kanal:"
-1846 „Passen Sie director.audio_channels an, um weitere Kanäle hinzuzufügen.“
-1858 "Audio Filename:"
-448 "Sind Sie sicher?"
-449 "Sind Sie sicher, dass Sie diesen Spielstand löschen möchten?"
-450 "Sind Sie sicher, dass Sie Ihren Spielstand überschreiben möchten?"
-451 „Beim Laden gehen nicht gespeicherte Fortschritte verloren.\nSind Sie sicher, dass Sie dies tun möchten?“
-452 "Sind Sie sicher, dass Sie aufhören wollen?"
-453 "Möchten Sie wirklich zum Hauptmenü zurückkehren?\nDadurch gehen nicht gespeicherte Spielfortschritte verloren."
-454 „Sind Sie sicher, dass Sie dort weitermachen möchten, wo Sie aufgehört haben?“
-455 "Sind Sie sicher, dass Sie die Wiederholung beenden möchten?"
-456 "Bist du sicher, dass du mit dem Seilspringen anfangen willst?"
-457 „Sind Sie sicher, dass Sie zur nächsten Auswahlmöglichkeit springen möchten?“
-458 „Sind Sie sicher, dass Sie den nicht sichtbaren Dialog überspringen und zur nächsten Auswahlmöglichkeit gelangen möchten?“
-459 „Dieser Spielstand wurde auf einem anderen Gerät erstellt.“ Böswillig erstellte Speicherdateien können Ihrem Computer schaden. Vertraust du dem Ersteller dieses Spielstands und allen, die die Datei verändert haben könnten?
-460 "Vertrauen Sie dem Gerät, auf dem der Spielstand erstellt wurde?" Sie sollten nur dann „Ja“ auswählen, wenn Sie der einzige Benutzer des Geräts sind.
-325 "Screenshot konnte nicht als %s gespeichert werden."
-346 „Screenshot gespeichert als %s.“
-257 "Überspringmodus"
-344 „Dieses Programm enthält freie Software unter einer Reihe von Lizenzen, darunter die MIT-Lizenz und die GNU Lesser General Public License. Eine vollständige Liste der Software, einschließlich Links zum vollständigen Quellcode, finden Sie {a=https://www.renpy.org/l/license}hier{/a}.
+1582 "Done"
+1592 "(declaración)"
+1593 "(tag)"
+1594 "(atributos)"
+1595 "(transformar)"
+1620 "(transición)"
+1632 "(channel)"
+1633 "(filename)"
+1662 "Change"
+1664 "Añadir"
+1667 "Cancelar"
+1670 "Eliminar"
+1705 "Declaración:"
+1726 "Etiqueta:"
+1742 "Atributos:"
+1753 "Haga clic para alternar el atributo, haga clic con el botón derecho para alternar el atributo negativo."
+1765 "Transforma:"
+1776 "Haga clic para establecer la transformación, haga clic con el botón derecho para agregarla a la lista de transformaciones."
+1777 "Personaliza director.transforms para añadir más transformaciones."
+1789 "Detrás:"
+1800 "Haga clic para configurar, haga clic con el botón derecho para agregar a la lista de elementos pendientes."
+1812 "Transición:"
+1822 "Haga clic para configurar."
+1823 "Personaliza director.transitions para añadir más transiciones."
+1835 "Channel:"
+1846 "Personalice director.audio_channels para agregar más canales."
+1858 "Nombre del archivo de audio:"
+448 "¿Estás seguro?"
+449 "¿Estás seguro de que quieres eliminar esta partida guardada?"
+450 "¿Estás seguro de que quieres sobrescribir tu partida guardada?"
+451 "La carga provocará la pérdida del progreso no guardado.\n¿Está seguro de que desea realizar esta acción?"
+452 "¿Estás seguro de que quieres renunciar?"
+453 "¿Estás seguro de que quieres volver al menú principal?\nEsto provocará la pérdida del progreso no guardado."
+454 "¿Estás seguro de que quieres continuar donde lo dejaste?"
+455 "¿Está seguro de que desea finalizar la repetición?"
+456 "¿Estás seguro de que quieres empezar a saltar?"
+457 "¿Está seguro de que desea pasar a la siguiente opción?"
+458 "¿Estás seguro de que quieres saltarte el diálogo no visto y pasar a la siguiente opción?"
+459 "Este guardado se creó en un dispositivo diferente. Los archivos de guardado creados con fines maliciosos pueden dañar su ordenador. ¿Confías en el creador de esta partida guardada y en todos los que podrían haber modificado el archivo?
+460 "¿Confías en el dispositivo en el que se creó la copia de seguridad?" Solo debes seleccionar "sí" si eres el único usuario del dispositivo.
+325 "No se pudo guardar la captura de pantalla como %s."
+346 "Captura de pantalla guardada como %s."
+257 "Modo de salto"
+344 "Este programa contiene software libre bajo varias licencias, incluidas la Licencia MIT y la Licencia Pública General Reducida de GNU. Puede encontrar una lista completa del software, incluyendo enlaces al código fuente completo, {a=https://www.renpy.org/l/license}aquí{/a}."
 295 "display"
 315 "transitions"
-324 "Übergänge überspringen"
-326 „Video-Sprites“
-335 "leeres Fenster anzeigen"
-344 "Textgeschwindigkeit"
+324 "omitir transiciones"
+326 "sprites de vídeo"
+335 "mostrar ventana vacía"
+344 "velocidad de texto"
 352 "joystick"
-352 "Joystick..."
+352 "joystick..."
 359 "skip"
-362 "ungesehenen Text überspringen"
-367 "Ungesehenen Text überspringen"
-369 "beginne zu überspringen"
-373 „nach den Entscheidungen“
-380 "Nach den Auswahlmöglichkeiten überspringen"
-382 „automatische Zeitvorspulung“
+362 "omitir texto no visto"
+367 "omitir texto no visto"
+369 "comienza a saltar"
+373 "después de las elecciones"
+380 "saltar después de las opciones"
+382 "adelanto automático"
 396 "auto-forward"
-403 "Automatische Vorwärtsfahrt"
-406 „Automatische Weiterleitung nach Klick“
-415 "automatischer Umzug"
-424 "Warten auf Stimme"
-433 "Stimmhaltung"
-442 „Selbststimmgebung“
-445 "Selbstvertonung aktivieren"
-447 "Selbstauskunft deaktiviert"
-451 „Selbststimmen-Lautstärkeabfall“
-459 "Klemmbrett-Stimmung"
-462 "Zwischenablage-Sprachausgabe aktivieren"
-464 "Zwischenablage-Sprachausgabe deaktivieren"
-468 "Debug-Stimme"
-471 "Debug-Sprachausgabe aktivieren"
-473 "Debug-Sprachausgabe deaktivieren"
-477 "Audio hervorheben"
-486 "Rollback-Seite"
+403 "Avance automático"
+406 "reenvío automático después de hacer clic"
+415 "movimiento automático"
+424 "esperar voz"
+433 "sostenimiento de la voz"
+442 "autoexpresión"
+445 "habilitar la auto-voz"
+447 "desactivación de la voz propia"
+451 "caída de volumen por auto-voz"
+459 "voz del portapapeles"
+462 "habilitar la función de voz del portapapeles"
+464 "desactivar la función de voz del portapapeles"
+468 "depuración de voz"
+471 "habilitar la función de depuración"
+473 "deshabilitar la depuración de voz"
+477 "enfatizar el audio"
+486 "lado de retroceso"
 496 "gl powersave"
-502 "gl framerate"
-505 "gl tearing"
-508 "Schriftarttransformation"
-511 "Schriftgröße"
-519 "Schriftzeilenabstand"
-527 "Systemcursor"
-536 "Renderer-Menü"
-539 „Barrierefreiheitsmenü“
-542 „Text mit hohem Kontrast“
-551 "Audio bei minimiertem Fenster"
-560 "Audio bei fehlendem Fokus"
-569 "Web-Cache-Vorladen"
-584 „Sprachausgabe nach dem Spielmenü“
-593 "Fensterposition wiederherstellen"
-602 "Mono-Audio"
-611 "Schriftkernung"
+502 "velocidad de fotogramas gl"
+505 "gl desgarrando"
+508 "font transform"
+511 "tamaño de fuente"
+519 "espaciado entre líneas de fuente"
+527 "cursor del sistema"
+536 "menú del renderizador"
+539 "menú de accesibilidad"
+542 "texto de alto contraste"
+551 "audio al minimizar"
+560 "audio cuando está desenfocado"
+569 "Precarga de caché web"
+584 "Menú de voz después del juego"
+593 "restaurar posición de la ventana"
+602 "mono audio"
+611 "font kerning"
 619 "reset"
-632 „Hauptvolumen“
-633 "Musiklautstärke"
-634 „Lautstärke“
-635 "Lautstärke"
-636 "Hauptmodus stummschalten"
-637 "Musik stumm"
-638 "Stummer Ton"
-639 "stumme Stimme"
-640 "Alle stummschalten"
-723 "Zwischenablage-Sprachausgabe aktiviert." Drücken Sie „Umschalt+C“, um die Funktion zu deaktivieren.
-725 "Self-voicing would say \"[renpy.display.tts.last]\". Drücken Sie „Alt+Umschalt+V“, um die Funktion zu deaktivieren.
-727 "Selbstvertonung aktiviert." Drücken Sie „v“, um zu deaktivieren.
-420 „Sprechblasen-Editor“
-425 "(ausblenden)"
-436 "(klare Restblasen)"
-70 „Sync heruntergeladen.“
-184 „Verbindung zum Ren'Py Sync-Server konnte nicht hergestellt werden.“
-186 „Der Ren'Py Sync-Server hat eine Zeitüberschreitung erreicht.“
-188 „Beim Verbinden mit dem Ren'Py Sync-Server ist ein unbekannter Fehler aufgetreten.“
-204 „Der Ren'Py Sync-Server besitzt keine Kopie dieser Synchronisierung.“ Die Synchronisierungs-ID ist möglicherweise ungültig oder es ist zu einem Timeout gekommen.“
-305 „Bitte geben Sie die von Ihnen generierte Synchronisierungs-ID ein.\nGeben Sie niemals eine Synchronisierungs-ID ein, die Sie nicht selbst erstellt haben.“
-324 „Die Synchronisierungs-ID hat nicht das richtige Format.“
-344 „Die Synchronisierung konnte nicht entschlüsselt werden.“
-367 „Die Synchronisierung gehört zu einem anderen Spiel.“
-372 „Die Synchronisierung enthält eine Datei mit einem ungültigen Namen.“
-425 „Dadurch werden Ihre Spielstände auf den {a=https://sync.renpy.org}Ren'Py Sync Server{/a} hochgeladen.\nMöchten Sie fortfahren?"
-457 „Synchronisierungs-ID eingeben“
-468 „Dadurch wird der {a=https://sync.renpy.org}Ren'Py Sync Server{/a} kontaktiert.“
-498 „Synchronisierung erfolgreich“
-501 „Die Synchronisierungs-ID lautet:“
-507 „Mit dieser ID können Sie Ihren Spielstand auf ein anderes Gerät herunterladen.\nDiese Synchronisierung läuft in einer Stunde ab.\nRen'Py Sync wird unterstützt von {a=https://www.renpy.org/sponsors.html}den Sponsoren von Ren'Py{/a}."
-511 "Weiter"
-536 "Synchronisierungsfehler"
-63 "Übersetzungskennung: [Kennung]"
+632 "volumen principal"
+633 "volumen de música"
+634 "volumen de sonido"
+635 "volumen de voz"
+636 "silenciar principal"
+637 "música silenciosa"
+638 "silenciar sonido"
+639 "voz muda"
+640 "silenciar todo"
+723 "Voz en off del portapapeles habilitada. Pulsa 'Shift+C' para desactivarlo.
+725 "La auto-voz diría \"[renpy.display.tts.last]\". Pulsa 'Alt+Shift+V' para desactivarlo.
+727 "Autocomunicación habilitada." Pulsa 'v' para desactivar.
+420 "Editor de bocadillos de diálogo"
+425 "(ocultar)"
+436 "(burbujas retenidas transparentes)"
+70 "Sincronización descargada."
+184 "No se pudo conectar con el servidor Ren'Py Sync."
+186 "El servidor Ren'Py Sync ha agotado el tiempo de espera."
+188 "Se produjo un error desconocido al conectar con el servidor Ren'Py Sync."
+204 "El servidor Ren'Py Sync no tiene una copia de esta sincronización. Es posible que el ID de sincronización no sea válido o que haya expirado el tiempo de espera.
+305 "Por favor, introduzca el ID de sincronización que generó.\nNunca introduzca un ID de sincronización que no haya creado usted mismo."
+324 "El ID de sincronización no tiene el formato correcto."
+344 "No se pudo descifrar la sincronización."
+367 "La sincronización pertenece a otro juego."
+372 "La sincronización contiene un archivo con un nombre no válido."
+425 "Esto subirá tus partidas guardadas al {a=https://sync.renpy.org}Servidor de sincronización de Ren'Py{/a}.\n¿Quieres continuar?"
+457 "Introduzca el ID de sincronización"
+468 "Esto se pondrá en contacto con el {a=https://sync.renpy.org}Servidor de sincronización de Ren'Py{/a}."
+498 "Sincronización exitosa"
+501 "El ID de sincronización es:"
+507 "Puedes usar este ID para descargar tu partida guardada en otro dispositivo.\nEsta sincronización caducará en una hora.\nRen'Py Sync cuenta con el apoyo de {a=https://www.renpy.org/sponsors.html}Patrocinadores de Ren'Py{/a}."
+511 "Continuar"
+536 "Sync Error"
+63 "Identificador de traducción: [identificador]"
 84 " translates [tl.filename]:[tl.linenumber]"
-101 "\n{color=#fff}In die Zwischenablage kopiert.{/color}"
-231 „App Store wird kontaktiert\nBitte warten...“
-415 „Keine Aktualisierungsmethoden gefunden.“
-462 "Dateiliste konnte nicht heruntergeladen werden: "
-465 "Die Dateiliste stimmt nicht überein."
-675 „Es wird ein Fehler simuliert.“
-863 „Entweder unterstützt dieses Projekt keine Aktualisierungen, oder die Aktualisierungsstatusdatei wurde gelöscht.“
-877 „Dieses Konto hat keine Berechtigung, ein Update durchzuführen.“
-880 „Dieses Konto hat keine Berechtigung, das Aktualisierungsprotokoll zu schreiben.“
-966 „Die Aktualisierungssignatur konnte nicht verifiziert werden.“
-1289 „Die Aktualisierungsdatei wurde nicht heruntergeladen.“
-1307 „Die Aktualisierungsdatei hat nicht den korrekten Digest – sie ist möglicherweise beschädigt.“
-1457 "Beim Auspacken von {}, unbekannter Typ {}."
-1928 "Aktualisierer"
-1935 „Es ist ein Fehler aufgetreten:“
-1937 „Überprüfe auf Aktualisierungen.“
-1939 „Dieses Programm ist auf dem neuesten Stand.“
-1941 "[u.version] ist verfügbar. Möchtest du es installieren?
-1943 „Vorbereitung zum Herunterladen der Aktualisierungen.“
-1945 „Die Aktualisierungen werden heruntergeladen.“
-1947 „Die Neuerungen im Detail“.
-1949 „Fertigstellung“.
-1951 „Die Aktualisierungen wurden installiert.“ Das Programm wird neu gestartet.
-1953 „Die Aktualisierungen wurden installiert.“
-1955 „Die Modernisierungen wurden abgesagt.“
-1970 "Proceed"
-1986 „Vorbereitung zum Herunterladen der Spieldaten.“
-1988 „Herunterladen der Spieldaten.“
-1990 „Die Spieldaten wurden heruntergeladen.“
-1992 „Beim Herunterladen der Spieldaten ist ein Fehler aufgetreten:“
-1997 „Dieses Spiel kann erst ausgeführt werden, nachdem die Spieldaten heruntergeladen wurden.“
-2004 "Wiederholen"
-676 "Bild [Index] von [Anzahl] gesperrt."
+101 "\n{color=#fff}Copiado al portapapeles.{/color}"
+231 "Contactando con la App Store\nPor favor, espere..."
+415 "No se encontraron métodos de actualización."
+462 "No se pudo descargar la lista de archivos: "
+465 "El resumen de la lista de archivos no coincide."
+675 "Se está simulando un error."
+863 "O bien este proyecto no admite actualizaciones, o bien se eliminó el archivo de estado de actualización."
+877 "Esta cuenta no tiene permiso para realizar una actualización."
+880 "Esta cuenta no tiene permiso para escribir el registro de actualizaciones."
+966 "No se pudo verificar la firma de actualización."
+1289 "No se descargó el archivo de actualización."
+1307 "El archivo de actualización no tiene el resumen correcto; es posible que esté dañado."
+1457 "Al desempaquetar {}, tipo desconocido {}."
+1928 "Actualizador"
+1935 "Se ha producido un error:"
+1937 "Buscando actualizaciones."
+1939 "Este programa está actualizado."
+1941 "[u.version] está disponible. ¿Quieres instalarlo?
+1943 "Preparando la descarga de las actualizaciones."
+1945 "Descargando las actualizaciones."
+1947 "Desglosando las actualizaciones."
+1949 "Finalizando."
+1951 "Las actualizaciones se han instalado." El programa se reiniciará.
+1953 "Las actualizaciones se han instalado."
+1955 "Las actualizaciones fueron canceladas."
+1970 "Proceder"
+1986 "Preparando la descarga de los datos del juego."
+1988 "Descargando los datos del juego."
+1990 "Los datos del juego se han descargado."
+1992 "Se produjo un error al intentar descargar los datos del juego:"
+1997 "Este juego no se puede ejecutar hasta que se hayan descargado los datos del juego."
+2004 "Retry"
+676 "Imagen [índice] de [cantidad] bloqueada."
 696 "prev"
-697 "nächstes"
-698 „Diashow“
-699 "Rückgabe"
+697 "next"
+698 "presentación de diapositivas"
+699 "return"
 89 "Renderer"
-91 „Automatisch auswählen“
-96 "GL2-Renderer erzwingen"
+91 "Seleccionar automáticamente"
+96 "Force GL2 Renderer"
 101 "Force ANGLE2 Renderer"
-106 "GLES2-Renderer erzwingen"
-112 "Aktivieren (Keine Sperrliste)"
-135 „Energiesparmodus“
-145 "Bildrate"
-147 "Bildschirm"
+106 "Force GLES2 Renderer"
+112 "Habilitar (Sin lista de bloqueo)"
+135 "Powersave"
+145 "Framerate"
+147 "Pantalla"
 151 "60"
 155 "30"
-159 "Zerreißen"
-171 „Die Änderungen treten bei der nächsten Durchführung dieses Programms in Kraft.“
-207 „Leistungswarnung“
-212 „Dieser Computer verwendet Software-Rendering.“
-214 „Dieses Spiel erfordert die Verwendung von GL2, das nicht initialisiert werden kann.“
-216 "Dieser Computer hat ein Problem mit der Grafikdarstellung: [Problem]."
-220 „Seine Grafiktreiber sind möglicherweise veraltet oder funktionieren nicht ordnungsgemäß.“ Dies kann zu einer langsamen oder fehlerhaften Grafikdarstellung führen.“
-224 „Die Datei {a=edit:1:log.txt}log.txt{/a} kann Informationen enthalten, die Ihnen helfen, die Ursache des Problems mit Ihrem Computer zu ermitteln.“
-229 „Weitere Details zur Behebung dieses Problems finden Sie in der {a=[url]}Dokumentation{/a}.“
-234 „Weiter, diese Warnung erneut anzeigen“
-238 "Fortfahren, keine Warnung mehr anzeigen"
-246 „Rendering-Optionen ändern“
-33 "Gamepad zum Kalibrieren auswählen"
-36 „Keine Gamepads verfügbar“
-56 "Kalibrierung von [Name] ([i]/[Gesamt])"
-60 "Drücken oder bewegen Sie die '[Steuerung!s]' [Art]."
-70 "Überspringen (A)"
-73 "Back (B)"
-73 "Offen"
-73 „Öffnet die Datei traceback.txt in einem Texteditor.“
-73 "Copy BBCode"
-73 "Kopiert die Datei traceback.txt als BBCode in die Zwischenablage für Foren wie https://lemmasoft.renai.us/."
+159 "Desgarro"
+171 "Los cambios entrarán en vigor la próxima vez que se ejecute este programa."
+207 "Advertencia de rendimiento"
+212 "Este ordenador está utilizando renderizado por software."
+214 "Este juego requiere el uso de GL2 que no se puede inicializar."
+216 "Este ordenador tiene un problema al mostrar gráficos: [problema]."
+220 "Es posible que sus controladores gráficos estén desactualizados o no funcionen correctamente. Esto puede provocar una visualización de gráficos lenta o incorrecta.
+224 "El archivo {a=edit:1:log.txt}log.txt{/a} puede contener información que le ayude a determinar qué le ocurre a su ordenador."
+229 "Encontrará más detalles sobre cómo solucionar esto en la {a=[url]}documentación{/a}."
+234 "Continuar, mostrar esta advertencia de nuevo"
+238 "Continuar, no volver a mostrar la advertencia"
+246 "Cambiar opciones de renderizado"
+33 "Seleccione el mando para calibrar"
+36 "No hay mandos disponibles"
+56 "Calibrando [nombre] ([i]/[total])"
+60 "Presione o mueva el '[control!s]' [tipo]."
+70 "Saltar (A)"
+73 "Atrás (B)"
+73 "Abierto"
+73 "Abre el archivo traceback.txt en un editor de texto."
+73 "Copiar BBCode"
+73 "Copia el archivo traceback.txt al portapapeles como BBcode para foros como https://lemmasoft.renai.us/."
 73 "Copy Markdown"
-73 "Kopiert die Datei traceback.txt als Markdown für Discord in die Zwischenablage."
-73 „Es ist ein Ausnahmefall eingetreten.“
+73 "Copia el archivo traceback.txt al portapapeles como Markdown para Discord."
+73 "Se ha producido una excepción."
 73 "Rollback"
-73 „Versucht, zu einem früheren Zeitpunkt zurückzukehren, sodass Sie eine andere Auswahl speichern oder treffen können.“
-73 "Ignorieren"
-73 „Ignoriert die Ausnahme, sodass Sie fortfahren können.“
-73 "Ignoriert die Ausnahme, sodass Sie fortfahren können." Dies führt häufig zu weiteren Fehlern.
-73 "Nachladen"
-73 „Lädt das Spiel von der Disk neu und speichert bzw. stellt den Spielstand nach Möglichkeit wieder her.“
-73 "Konsole"
-73 „Öffnet eine Konsole, um die Fehlersuche zu ermöglichen.“
-73 "Hört auf zu spielen."
-73 „Fehler beim Parsen des Skripts.“
+73 "Intenta revertir a un momento anterior, lo que le permite guardar o elegir una opción diferente."
+73 "Ignore"
+73 "Ignora la excepción, permitiéndote continuar."
+73 "Ignora la excepción, permitiéndote continuar. Esto suele dar lugar a errores adicionales.
+73 "Recargar"
+73 "Recarga el juego desde el disco, guardando y restaurando el estado del juego si es posible."
+73 "Consola"
+73 "Abre una consola para permitir la depuración del problema."
+73 "Abandona el juego."
+73 "Error al analizar el script."
