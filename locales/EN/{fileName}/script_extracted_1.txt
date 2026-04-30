@@ -1,42 +1,42 @@
-29 "Ha sido un día largo, hablando con desconocidos e intentando venderles galletas."
-31 "¡El Cookie Crumble, con todos los sabores más novedosos!"
-33 "Ha habido un par de mordiscos, pero muchos han rechazado las galletas, alegando que hornean sus propias galletas."
-35 "Mientras caminas, llegas a la última casa de tu ruta."
-37 "Revisando la dirección dos veces, te detienes",
-39 "Supongo que este es el lugar. Tiene un aspecto un poco descuidado."
-43 "Has visto casas peores, normalmente en el periódico." La hierba ha crecido sin control, las ventanas están tapadas y las canaletas están llenas de hojas secas.
-45 "¿De verdad vive alguien aquí?"
-47 "El camino a la puerta principal está lleno de maleza, y hoy decidiste usar pantalones cortos."
-49 "¡Qué mala suerte tengo!"
-54 "Bueno, se está haciendo tarde." Creo que, después de todo, no vive nadie aquí.
-55 "Al darte la vuelta, dejas la casa atrás. Cuando llegas al final de la cuadra, un viento repentino viene de atrás y te empuja.
-56 "Mirando hacia atrás, no se ve nada fuera de lo común."
-57 "Eso fue raro."
-58 "Sacudiendo la cabeza, vuelves a caminar."
-59 "Tomarás el autobús a casa y esa noche dormirás profundamente." Hoy has caminado mucho, y mañana será un nuevo día.
-66 "Abriéndote paso entre la maleza, subes los escalones hasta quedar frente a la puerta."
-67 "Hay un timbre antiguo a la derecha, y más allá una ventana. Las luces están apagadas y parece que han puesto algo sobre la ventana, pero hay un pequeño agujero oscuro.
-68 "¿Hay alguien en casa?"
-73 "Vas a llamar a la puerta, pero tu mano pasa por el aire cuando la puerta se abre."
-78 "¿Quién intenta abrir la puerta de una casa abandonada?" Al parecer, tú eres recompensado con la puerta abriéndose silenciosamente.
-83 "{i}Eso es raro.{i}"
-87 "¿Hay alguien en casa?"
-89 "Al mirar por la puerta, oyes un fuerte {b}GOLPE{/b} desde arriba, como si alguien se cayera de la cama."
-91 "¿Está todo bien?"
-93 "Das un paso dentro de la puerta, hacia las escaleras,"
-95 "¿Alguien se acaba de caer?"
-97 "De repente sopla un viento, aparentemente desde abajo de las escaleras, y la puerta se cierra de golpe tras de ti con un BANG."
-99 "Al girar, te das cuenta de que hay algo que se interpone entre tú y la puerta; es tan alto como el techo, incluso más alto, con brazos largos y sombríos y una cabeza grande y deforme de oscuridad. Unos ojos color marfil brillan, y luego no hay nada.
-108 "Has tenido un día largo vendiendo galletas, yendo de puerta en puerta."
-110 "Esta es la última casa de la manzana."
-115 "Alzamos la vista y vemos un edificio de dos plantas, con lo que parece ser un ático en la parte superior."
-117 "Supongo que este es el lugar."
-127 "Historia de Tyler Bar-Ness"
-128 "Programación de juegos por Lucas Vinet"
-129 "Arte de"
-130 "Traducciones de AJ Ristino, Enjin Wang, Tyler Bar-Ness y Lucas Vinet"
-131 "Música de {i}Universfield, DELOsound, |cl21, BackgroundMusicForVideo{/i}"
-133 "El final."
-128 "Diseño del juego por Lucas Vinet"
-129 "Arte de Tyler Bar-Ness"
-130 "Programación por AJ Ristino"
+29 「見知らぬ人と話したり、クッキーを売ろうとしたりして、長い一日だった」
+31「最新のフレーバーが勢ぞろいしたクッキークランブル！」
+33 「少しは食べてくれた人もいましたが、多くの人は自分でクッキーを焼くと言って断りました。」
+35 「歩いていくと、ルート上の最後の家に着きます。」
+37 「住所を再確認するため、あなたは一時停止します」
+39 「ここがその場所だと思う。」ちょっと老朽化しているように見えるけど。
+43 「もっとひどい家を見たことがあるでしょう、たいていは新聞で。」草は伸び放題で、窓は覆われ、雨どいは枯れ葉でいっぱいだ。
+45「ここに実際に誰か住んでいるの？」
+47「玄関までの道は雑草で覆われていて、あなたは今日ショートパンツを履くことにした。」
+49「なんて運が悪いんだ！」
+54 「もう遅い時間だ。」結局、ここには誰も住んでいないと思う。
+55 「背を向けて、家を後にする。通りの端まで来ると、突然後ろから風が吹いてきて、あなたを押しのける。
+56「振り返ってみると、何も変わったことはなかった。」
+57「あれは奇妙だった。」
+58「あなたは首を振りながら、再び歩き出す。」
+59 「あなたはバスで家に帰り、その夜はぐっすり眠るでしょう。」今日はたくさん歩いたね。明日はまた新しい日だよ。
+66 「雑草をかき分けて進み、階段を上ってドアの前に立つ。」
+67 「右側に古いドアベルがあり、その向こうに窓があります。」明かりは消えていて、窓には何かが被せられているようだが、小さな暗い穴が開いている。
+68 「誰かいますか？」
+73 「あなたがドアをノックしようとすると、あなたの手が空を切った瞬間にドアが開く。」
+78 「誰が廃屋のドアノブを回そうとするだろうか？」どうやらあなたはそうだったようで、そのご褒美としてドアが音もなく開きます。
+83 "それは変だ。"
+87 「誰かいますか？」
+89 「戸口から中を覗くと、頭上から大きなドスンという音が聞こえます。まるで誰かがベッドから落ちたような音です。」
+91 「大丈夫ですか？」
+93 「あなたはドアの中に一歩踏み込み、階段の方へ向かいます。」
+95「誰かが転んだのか？」
+97 「突然、階段の下から風が吹き、あなたの後ろのドアがバンという音を立てて閉まった。」
+99 「くるりと回ると、彼女があなたとドアの間に立っている何かだと気づく。それは天井と同じくらい、いやそれ以上に高く、長く影のような腕と、大きく歪んだ暗闇の頭を持っている。」象牙色の瞳が輝き、そして、何もかも消え去る。
+108 「あなたは一日中、家々を回ってクッキーを売って、大変な一日を過ごしましたね。」
+110「ここは、このブロックの一番奥の家です。」
+115 「見上げると、2階建ての建物があり、その上に屋根裏部屋のようなものがあるのが見える。」
+117「ここが目的地だと思う。」
+127「タイラー・バーネスによる物語」
+128「ルーカス・ヴィネによるゲームプログラミング」
+129 「アート作品」
+130 「翻訳：AJ Ristino、Enjin Wang、Tyler Bar-Ness、Lucas Vinet」
+131 "Music by {i}Universfield, DELOsound, |cl21, BackgroundMusicForVideo{/i}"
+133「終わり」
+128「ルーカス・ヴィネによるゲームデザイン」
+129「タイラー・バーネスによるアート作品」
+130「AJ Ristinoによるコーディング」
