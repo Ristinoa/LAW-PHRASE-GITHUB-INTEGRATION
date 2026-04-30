@@ -1,42 +1,42 @@
-29 "Ha sido un día largo, hablando con desconocidos e intentando venderles galletas."
-31 "¡El Cookie Crumble, con todos los sabores más novedosos!"
-33 "Ha habido un par de mordiscos, pero muchos han rechazado las galletas, alegando que hornean sus propias galletas."
-35 "Mientras caminas, llegas a la última casa de tu ruta."
-37 "Revisando la dirección dos veces, te detienes",
-39 "Supongo que este es el lugar. Tiene un aspecto un poco descuidado."
-43 "Has visto casas peores, normalmente en el periódico." La hierba ha crecido sin control, las ventanas están tapadas y las canaletas están llenas de hojas secas.
-45 "¿De verdad vive alguien aquí?"
-47 "El camino a la puerta principal está lleno de maleza, y hoy decidiste usar pantalones cortos."
-49 "¡Qué mala suerte tengo!"
-54 "Bueno, se está haciendo tarde." Creo que, después de todo, no vive nadie aquí.
-55 "Al darte la vuelta, dejas la casa atrás. Cuando llegas al final de la cuadra, un viento repentino viene de atrás y te empuja.
-56 "Mirando hacia atrás, no se ve nada fuera de lo común."
-57 "Eso fue raro."
-58 "Sacudiendo la cabeza, vuelves a caminar."
-59 "Tomarás el autobús a casa y esa noche dormirás profundamente." Hoy has caminado mucho, y mañana será un nuevo día.
-66 "Abriéndote paso entre la maleza, subes los escalones hasta quedar frente a la puerta."
-67 "Hay un timbre antiguo a la derecha, y más allá una ventana. Las luces están apagadas y parece que han puesto algo sobre la ventana, pero hay un pequeño agujero oscuro.
-68 "¿Hay alguien en casa?"
-73 "Vas a llamar a la puerta, pero tu mano pasa por el aire cuando la puerta se abre."
-78 "¿Quién intenta abrir la puerta de una casa abandonada?" Al parecer, tú eres recompensado con la puerta abriéndose silenciosamente.
-83 "{i}Eso es raro.{i}"
-87 "¿Hay alguien en casa?"
-89 "Al mirar por la puerta, oyes un fuerte {b}GOLPE{/b} desde arriba, como si alguien se cayera de la cama."
-91 "¿Está todo bien?"
-93 "Das un paso dentro de la puerta, hacia las escaleras,"
-95 "¿Alguien se acaba de caer?"
-97 "De repente sopla un viento, aparentemente desde abajo de las escaleras, y la puerta se cierra de golpe tras de ti con un BANG."
-99 "Al girar, te das cuenta de que hay algo que se interpone entre tú y la puerta; es tan alto como el techo, incluso más alto, con brazos largos y sombríos y una cabeza grande y deforme de oscuridad. Unos ojos color marfil brillan, y luego no hay nada.
-108 "Has tenido un día largo vendiendo galletas, yendo de puerta en puerta."
-110 "Esta es la última casa de la manzana."
-115 "Alzamos la vista y vemos un edificio de dos plantas, con lo que parece ser un ático en la parte superior."
-117 "Supongo que este es el lugar."
-127 "Historia de Tyler Bar-Ness"
-128 "Programación de juegos por Lucas Vinet"
-129 "Arte de"
-130 "Traducciones de AJ Ristino, Enjin Wang, Tyler Bar-Ness y Lucas Vinet"
-131 "Música de {i}Universfield, DELOsound, |cl21, BackgroundMusicForVideo{/i}"
-133 "El final."
-128 "Diseño del juego por Lucas Vinet"
-129 "Arte de Tyler Bar-Ness"
-130 "Programación por AJ Ristino"
+29 „Es war ein langer Tag, an dem ich mit Fremden gesprochen und versucht habe, ihnen Kekse zu verkaufen.“
+31 „Der Cookie Crumble, mit allen neuesten Geschmacksrichtungen!“
+33 „Es gab ein paar Bissen, aber viele haben die Kekse abgelehnt und behauptet, ihre eigenen Kekse zu backen.“
+35 „Wenn Sie gehen, kommen Sie zum letzten Haus auf Ihrer Route.“
+37. „Du überprüfst die Adresse noch einmal und hältst inne.“
+39 "Ich denke, das ist der richtige Ort." Es sieht allerdings etwas heruntergekommen aus.“
+43 „Sie haben schon schlimmere Häuser gesehen, meistens in der Zeitung.“ Das Gras ist wild gewachsen, die Fenster sind verklebt und die Dachrinnen sind voller toter Blätter.“
+45 „Wohnt hier eigentlich irgendjemand?“
+47 „Der Weg zur Haustür ist von Unkraut überwuchert, und du hast dich heute entschieden, Shorts zu tragen.“
+49 „Typisch für mich!“
+54 „Nun, es wird spät.“ Ich glaube, hier wohnt doch niemand.
+55 „Wenn du dich abwendest, lässt du das Haus hinter dir.“ Wenn man das Ende des Häuserblocks erreicht, kommt plötzlich ein Windstoß von hinten, der einen wegdrückt.“
+56 „Wenn man zurückblickt, sieht man nichts Ungewöhnliches.“
+57 „Das war seltsam.“
+58 „Du schüttelst den Kopf und gehst weiter.“
+59 „Du fährst mit dem Bus nach Hause und schläfst in dieser Nacht tief und fest.“ Du bist heute viel gelaufen, und morgen ist ein neuer Tag.
+66 „Du kämpfst dich durch das Unkraut, steigst die Stufen hinauf und stehst vor der Tür.“
+67 „Rechts befindet sich eine alte Türklingel, und dahinter ein Fenster.“ Das Licht ist aus, und es sieht so aus, als ob etwas vor das Fenster gelegt worden wäre, aber es bleibt ein kleines, dunkles Loch.
+68 "Ist jemand zu Hause?"
+73 »Du willst an die Tür klopfen, aber deine Hand gleitet durch die Luft, als sich die Tür öffnet.«
+78 "Wer versucht schon, die Türklinke eines verlassenen Hauses zu öffnen?" Offenbar Sie, und Sie werden dafür belohnt, dass sich die Tür geräuschlos öffnet.“
+83 "Das ist seltsam."
+87 „Ist jemand zu Hause?“
+89 „Als du durch die Tür schaust, hörst du von oben einen lauten {b}THUMP{/b}, als ob jemand vom Bett gefallen wäre.“
+91 "Ist alles in Ordnung?"
+93 „Du gehst durch die Tür, in Richtung Treppe.“
+95 „Ist da gerade jemand hingefallen?“
+97 „Plötzlich weht ein Windstoß, scheinbar von unten auf der Treppe, und die Tür schlägt mit einem lauten Knall hinter dir zu.“
+99 „Als du dich umdrehst, merkst du, dass da etwas zwischen dir und der Tür steht; es ist bestimmt so groß wie die Decke, vielleicht sogar noch größer, mit langen, schattenhaften Armen und einem großen, unförmigen Kopf aus Dunkelheit.“ Elfenbeinfarbene Augen leuchten, und dann ist da nichts mehr.“
+108 „Du hattest einen langen Tag beim Kekseverkaufen, du bist von Tür zu Tür gegangen.“
+110 „Dies ist das letzte Haus im Block.“
+115 „Man schaut nach oben und sieht ein zweistöckiges Gebäude mit etwas, das wie ein Dachboden aussieht.“
+117 „Ich schätze, das ist der richtige Ort.“
+127 „Geschichte von Tyler Bar-Ness“
+128 „Spielprogrammierung von Lucas Vinet“
+129 "Kunst von"
+130 „Übersetzungen von AJ Ristino, Enjin Wang, Tyler Bar-Ness und Lucas Vinet“
+131 "Musik von {i}Universfield, DELOsound, |cl21, BackgroundMusicForVideo{/i}"
+133 „Das Ende.“
+128 „Spieldesign von Lucas Vinet“
+129 „Illustrationen von Tyler Bar-Ness“
+130 „Programmierung von AJ Ristino“
