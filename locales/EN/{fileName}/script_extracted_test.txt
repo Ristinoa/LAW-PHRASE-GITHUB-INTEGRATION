@@ -1,42 +1,42 @@
-29 "Ha sido un día largo, hablando con desconocidos e intentando venderles galletas."
-31 "¡El Cookie Crumble, con todos los sabores más novedosos!"
-33 "Ha habido un par de mordiscos, pero muchos han rechazado las galletas, alegando que hornean sus propias galletas."
-35 "Mientras caminas, llegas a la última casa de tu ruta."
-37 "Revisando la dirección dos veces, te detienes",
-39 "Supongo que este es el lugar. Tiene un aspecto un poco descuidado."
-43 "Has visto casas peores, normalmente en el periódico." La hierba ha crecido sin control, las ventanas están tapadas y las canaletas están llenas de hojas secas.
-45 "¿De verdad vive alguien aquí?"
-47 "El camino a la puerta principal está lleno de maleza, y hoy decidiste usar pantalones cortos."
-49 "¡Qué mala suerte tengo!"
-54 "Bueno, se está haciendo tarde." Creo que, después de todo, no vive nadie aquí.
-55 "Al darte la vuelta, dejas la casa atrás. Cuando llegas al final de la cuadra, un viento repentino viene de atrás y te empuja.
-56 "Mirando hacia atrás, no se ve nada fuera de lo común."
-57 "Eso fue raro."
-58 "Sacudiendo la cabeza, vuelves a caminar."
-59 "Tomarás el autobús a casa y esa noche dormirás profundamente." Hoy has caminado mucho, y mañana será un nuevo día.
-66 "Abriéndote paso entre la maleza, subes los escalones hasta quedar frente a la puerta."
-67 "Hay un timbre antiguo a la derecha, y más allá una ventana. Las luces están apagadas y parece que han puesto algo sobre la ventana, pero hay un pequeño agujero oscuro.
-68 "¿Hay alguien en casa?"
-73 "Vas a llamar a la puerta, pero tu mano pasa por el aire cuando la puerta se abre."
-78 "¿Quién intenta abrir la puerta de una casa abandonada?" Al parecer, tú eres recompensado con la puerta abriéndose silenciosamente.
-83 "{i}Eso es raro.{i}"
-87 "¿Hay alguien en casa?"
-89 "Al mirar por la puerta, oyes un fuerte {b}GOLPE{/b} desde arriba, como si alguien se cayera de la cama."
-91 "¿Está todo bien?"
-93 "Das un paso dentro de la puerta, hacia las escaleras,"
-95 "¿Alguien se acaba de caer?"
-97 "De repente sopla un viento, aparentemente desde abajo de las escaleras, y la puerta se cierra de golpe tras de ti con un BANG."
-99 "Al girar, te das cuenta de que hay algo que se interpone entre tú y la puerta; es tan alto como el techo, incluso más alto, con brazos largos y sombríos y una cabeza grande y deforme de oscuridad. Unos ojos color marfil brillan, y luego no hay nada.
-108 "Has tenido un día largo vendiendo galletas, yendo de puerta en puerta."
-110 "Esta es la última casa de la manzana."
-115 "Alzamos la vista y vemos un edificio de dos plantas, con lo que parece ser un ático en la parte superior."
-117 "Supongo que este es el lugar."
-127 "Historia de Tyler Bar-Ness"
-128 "Programación de juegos por Lucas Vinet"
-129 "Arte de"
-130 "Traducciones de AJ Ristino, Enjin Wang, Tyler Bar-Ness y Lucas Vinet"
-131 "Música de {i}Universfield, DELOsound, |cl21, BackgroundMusicForVideo{/i}"
-133 "El final."
-128 "Diseño del juego por Lucas Vinet"
-129 "Arte de Tyler Bar-Ness"
-130 "Programación por AJ Ristino"
+29 “今天真是漫长的一天，跟陌生人说话，还试图向他们推销饼干。”
+31 “曲奇碎屑，融合了所有最新口味！”
+33 “有人尝了几口，但很多人都拒绝了饼干，声称自己会烤饼干。”
+35 “当你走着走着，来到你路线上的最后一栋房子前。”
+37 “你再次确认地址，然后停顿了一下，”
+39 “我想就是这里了。”不过看起来有点破旧。
+43 “你见过更糟糕的房子，通常是在报纸上。草木丛生，窗户被遮盖起来，排水沟里堆满了枯叶。
+45 “这里真的有人住吗？”
+47 “通往大门的小路杂草丛生，而你今天却决定穿短裤。”
+49 “真是倒霉！”
+54 “天色已晚。”我觉得这里根本没人住。
+55 “转身离开，你把房子留在身后。当你走到街区尽头时，突然一股风从背后吹来，推着你往前走。
+56 “回首往事，你会发现一切都很正常。”
+57 “那太奇怪了。”
+58 “你摇了摇头，继续往前走。”
+59 “你会乘公共汽车回家，那天晚上，你会睡得很香。”你今天走了很多路，明天又是新的一天。
+66 “你奋力穿过杂草，爬上台阶，站在门前。”
+67 “右边有一个古老的门铃，门铃后面是一扇窗户。灯都关了，窗户上好像被什么东西遮住了，但还是能看到一个小小的黑洞。
+68 “有人在家吗？”
+73 “你去敲门，但门开了，你的手却在空中划过。”
+78 “谁会去尝试打开一栋废弃房屋的门把手呢？”显然是你，而你得到的奖励就是门无声地打开了。
+83 “真奇怪。”
+87 “有人在家吗？”
+89 “当你透过门口往外看时，你会听到头顶传来一声巨响，就像有人从床上摔下来一样。”
+91 “一切都好吗？”
+93 “你迈进门内，走向楼梯，”
+95 “刚才有人摔倒了吗？”
+97 “突然一阵风吹来，似乎是从楼下吹来的，你身后的门砰的一声关上了。”
+99 “你转过身，意识到她挡在你和门之间；它和天花板一样高，甚至更高，有着长长的、阴影般的手臂和一个巨大的、畸形的黑暗脑袋。象牙色的眼睛闪闪发光，然后就什么也看不见了。
+108 “你今天挨家挨户卖饼干卖了一整天了。”
+110 “这是这条街上的最后一栋房子。”
+115 “你抬头望去，看到一栋两层楼的建筑，楼顶好像有个阁楼。”
+117 “我想就是这里了。”
+127 “泰勒·巴-内斯的故事”
+128 “卢卡斯·维内特的游戏编程”
+129 “艺术作品”
+130 “译者：AJ Ristino、Enjin Wang、Tyler Bar-Ness 和 Lucas Vinet”
+131 "音乐来自 {i}Universfield、DELOsound、|cl21、BackgroundMusicForVideo{/i}"
+133 “结束。”
+128 “游戏设计：卢卡斯·维内特”
+129 “泰勒·巴-内斯的艺术作品”
+130 “AJ Ristino 的编码”
