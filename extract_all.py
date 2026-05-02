@@ -18,6 +18,14 @@ old_pattern = re.compile(r'^\s*old\s+"((?:[^"\\]|\\.)*)"')
 translate_start = re.compile(r'^\s*translate\s+\w+\s+strings\s*:')
 
 
+def normalize_quotes(text):
+    """Normalize curly quotation marks to straight quotes."""
+    return (text.replace('"', '"')
+                 .replace('"', '"')
+                 .replace(''', "'")
+                 .replace(''', "'"))
+
+
 def extract_from_script_rpy():
     """Extract from script.rpy (original extract_script.py logic)"""
     INPUT_FILE = "script.rpy"
@@ -36,6 +44,7 @@ def extract_from_script_rpy():
             if line.strip().startswith("#") and current_ref is not None:
                 quotes = quoted_pattern.findall(line)
                 for q in quotes:
+                    q = normalize_quotes(q)
                     results.append(f'{current_ref} "{q}"')
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as out:
@@ -84,7 +93,8 @@ def extract_from_settings_files():
                     # Extract old string, including escaped quotes inside the string
                     old_match = re.match(r'^\s*old\s+"((?:[^"\\]|\\.)*)"', line)
                     if old_match and current_ref:
-                        results.append(f'{current_ref} "{old_match.group(1)}"')
+                        old_str = normalize_quotes(old_match.group(1))
+                        results.append(f'{current_ref} "{old_str}"')
                     continue
 
                 # Outside translate block (normal comment extraction)
@@ -96,6 +106,7 @@ def extract_from_settings_files():
                 if stripped.startswith("#") and current_ref:
                     quotes = re.findall(r'"(.*?)"', line)
                     for q in quotes:
+                        q = normalize_quotes(q)
                         results.append(f'{current_ref} "{q}"')
 
         # Write output
