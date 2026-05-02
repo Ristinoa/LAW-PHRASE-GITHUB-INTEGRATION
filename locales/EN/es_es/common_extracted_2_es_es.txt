@@ -1,0 +1,304 @@
+28 "Haz clic para reproducir el vídeo."
+28 "Discapacidad para expresarse por sí mismo".
+29 "Función de voz en el portapapeles habilitada."
+30 "Autoexpresión habilitada."
+32 "bar"
+33 "seleccionados"
+34 "ventana"
+35 "desplazamiento horizontal"
+36 "desplazamiento vertical"
+37 "activar"
+38 "desactivar"
+39 "aumentar"
+40 "decrease"
+134 "Autoexpresión"
+137 "La compatibilidad con la función de voz propia es limitada al usar una pantalla táctil."
+139 "Apagado"
+143 "Text-to-speech"
+147 "Clipboard"
+151 "Depurar"
+163 "Reiniciar"
+167 "Caída de volumen con auto-voz"
+180 "Mono Audio"
+182 "Habilitar"
+186 "Inhabilitar"
+198 "Anulación de fuente"
+200 "Predeterminado"
+204 "DejaVu Sans"
+208 "Opendyslexic"
+212 "Texto de alto contraste"
+224 "Ajuste del tamaño del texto"
+235 "Escalado del espaciado entre líneas"
+246 "Kerning"
+267 "Menú de accesibilidad. Utilice las flechas arriba y abajo para navegar, y la tecla Enter para activar los botones y las barras.
+288 "Voz propia y audio"
+292 "Text"
+306 "Las opciones de este menú están diseñadas para mejorar la accesibilidad. Es posible que no funcionen con todos los juegos, y algunas combinaciones de opciones pueden hacer que el juego sea injugable. Esto no es un problema del juego ni del motor. Para obtener los mejores resultados al cambiar la fuente, intente mantener el tamaño del texto igual al original.
+26 "{#weekday}Lunes"
+26 "{#weekday}Martes"
+26 "{#weekday}Miércoles"
+26 "{#weekday}Jueves"
+26 "{#weekday}viernes"
+26 "{#día de la semana}Sábado"
+26 "{#weekday}Domingo"
+37 "{#weekday_short}Mon"
+37 "{#weekday_short}Tue"
+37 "{#weekday_short}Wed"
+37 "{#weekday_short}Thu"
+37 "{#weekday_short}Fri"
+37 "{#weekday_short}Sat"
+37 "{#weekday_short}Sun"
+47 "{#month}Enero"
+47 "{#month}Febrero"
+47 "{#month}March"
+47 "{#month}Abril"
+47 "{#month}May"
+47 "{#month}Junio"
+47 "{#month}Julio"
+47 "{#month}Agosto"
+47 "{#month}Septiembre"
+47 "{#month}October"
+47 "{#month}Noviembre"
+47 "{#month}Diciembre"
+63 "{#month_short}Jan"
+63 "{#month_short}Feb"
+63 "{#month_short}Mar"
+63 "{#month_short}Apr"
+63 "{#month_short}May"
+63 "{#month_short}Jun"
+63 "{#month_short}Jul"
+63 "{#month_short}Aug"
+63 "{#month_short}Sep"
+63 "{#month_short}Oct"
+63 "{#month_short}Nov"
+63 "{#month_short}Dec"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
