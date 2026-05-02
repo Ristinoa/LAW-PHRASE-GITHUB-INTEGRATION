@@ -1,0 +1,304 @@
+28 „Klicken Sie hier, um das Video abzuspielen.“
+28 „Selbstäußerungsstörung“.
+29 „Sprachausgabe über die Zwischenablage aktiviert.“
+30 „Selbstvertonung aktiviert.“
+32 "bar"
+33 „ausgewählt“
+34 "viewport"
+35 „horizontale Schriftrolle“
+36 „vertikale Bildlaufrolle“
+37 "aktivieren"
+38 "deaktivieren"
+39 "Erhöhung"
+40 "Abnahme"
+134 „Selbstinszenierung“
+137 „Die Unterstützung für Selbstsprecher ist bei der Verwendung eines Touchscreens eingeschränkt.“
+139 "Aus"
+143 „Text-to-Speech“
+147 „Klemmbrett“
+151 "Debug"
+163 "Zurücksetzen"
+167 „Selbststimmende Lautstärkeabsenkung“
+180 "Mono-Audio"
+182 "Aktivieren"
+186 "Behinderung"
+198 "Schriftartüberschreibung"
+200 "Standard"
+204 "DejaVu Sans"
+208 "Opendyslexic"
+212 „Text mit hohem Kontrast“
+224 „Textgrößenanpassung“
+235 „Zeilenabstandsskalierung“
+246 "Kerning"
+267 „Barrierefreiheitsmenü“. Verwenden Sie die Pfeiltasten nach oben und unten zur Navigation und die Eingabetaste, um Schaltflächen und Leisten zu aktivieren.
+288 „Selbstvertonung und Audio“
+292 "Text"
+306 „Die Optionen in diesem Menü sollen die Zugänglichkeit verbessern.“ Sie funktionieren möglicherweise nicht mit allen Spielen, und manche Optionskombinationen können das Spiel unspielbar machen. Das Problem liegt nicht am Spiel oder an der Engine. Um beim Ändern der Schriftart optimale Ergebnisse zu erzielen, sollten Sie die Textgröße möglichst beibehalten.
+26 "{#weekday}Montag"
+26 "{#weekday}Dienstag"
+26 "{#weekday}Mittwoch"
+26 "{#weekday}Donnerstag"
+26 "{#weekday}Freitag"
+26 "{#weekday}Samstag"
+26 "{#weekday}Sonntag"
+37 "{#weekday_short}Mon"
+37 "{#weekday_short}Tue"
+37 "{#weekday_short}Wed"
+37 "{#weekday_short}Thu"
+37 "{#weekday_short}Fri"
+37 "{#weekday_short}Sat"
+37 "{#weekday_short}Sun"
+47 "{#month}Januar"
+47 "{#month}Februar"
+47 "{#month}March"
+47 "{#month}April"
+47 "{#month}Mai"
+47 "{#month}Juni"
+47 "{#month}July"
+47 "{#month}August"
+47 "{#month}September"
+47 "{#month}Oktober"
+47 "{#month}November"
+47 "{#month}Dezember"
+63 "{#month_short}Jan"
+63 "{#month_short}Feb"
+63 "{#month_short}Mar"
+63 "{#month_short}Apr"
+63 "{#month_short}May"
+63 "{#month_short}Jun"
+63 "{#month_short}Jul"
+63 "{#month_short}Aug"
+63 "{#month_short}Sep"
+63 "{#month_short}Oct"
+63 "{#month_short}Nov"
+63 "{#month_short}Dec"
+258 "%b %d, %H:%M"
+395 "Speicherplatz %s speichern: [Text]"
+481 "Lade Slot %s: [Text]"
+534 "Löschen Sie den Slot [Text]"
+613 "Dateiseite automatisch"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
