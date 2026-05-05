@@ -28,7 +28,7 @@ def normalize_quotes(text):
 
 def extract_from_script_rpy():
     """Extract from script.rpy (original extract_script.py logic)"""
-    INPUT_FILE = "script.rpy"
+    INPUT_FILE = "input_files/script.rpy"
     OUTPUT_FILE = os.path.join(OUTPUT_DIR, "script_extracted.txt")
     
     current_ref = None
@@ -56,7 +56,7 @@ def extract_from_script_rpy():
 
 def extract_from_settings_files():
     """Extract from options.rpy, screens.rpy, common.rpy (original extract_settings.py logic)"""
-    input_files = ["options.rpy", "screens.rpy", "common.rpy"]
+    input_files = ["input_files/options.rpy", "input_files/screens.rpy", "input_files/common.rpy"]
     output_files = ["options_extracted.txt", "screens_extracted.txt", "common_extracted.txt"]
 
     total_extracted = 0
