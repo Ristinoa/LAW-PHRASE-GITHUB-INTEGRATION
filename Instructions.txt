@@ -1,0 +1,38 @@
+Please adapt apply_translation.py to accept an argument
+
+> python3 apply_translation.py "es_es"
+
+where any subfolder locale name inside of locales/EN are an acceptable argument
+
+If a folder doesn't exist (if the user enters an incorrect language code) return an error
+
+Upon execution of the command, apply_translation.py should create an folder inside of output_files with the argument language code used as the folder name
+
+I would like you to make apply_translations take the files within the argument folder (we'll use "es_es" as an example) and match the number preceeding the translated line to the corresponding script line from the corresponding file in input_files. Example:
+
+INPUTS:
+
+input_files/script.rpy:
+
+# game/script.rpy:68
+translate english opening_doorway_d37e6200:
+
+    # narrator "You awaken on the cold stone floor. Your head throbs, and a pale, dim light illuminates the massive wooden archway before you."
+    narrator ""
+
+(for this file, just look for the file name to contain "common" "options" "screens" or "script" to determine your target file)
+locales/EN/es_es/script_extracted_AJ_es_es.txt:
+
+68 "Despiertas en el frío suelo de piedra. Te late la cabeza con fuerza, y una luz tenue y pálida ilumina el enorme arco de madera que tienes delante.
+
+DESIRED OUTPUT:
+
+output_files/es_es/script.rpy:
+
+# game/script.rpy:68
+translate spanish opening_doorway_d37e6200:
+
+    # narrator "You awaken on the cold stone floor. Your head throbs, and a pale, dim light illuminates the massive wooden archway before you."
+    narrator "Despiertas en el frío suelo de piedra. Te late la cabeza con fuerza, y una luz tenue y pálida ilumina el enorme arco de madera que tienes delante."
+
+That is all
