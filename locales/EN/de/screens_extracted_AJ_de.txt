@@ -1,0 +1,83 @@
+250 "Zurück"
+251 "Geschichte"
+252 "Überspringen"
+253 "Auto"
+254 "Speichern"
+255 "Q.Save"
+256 "Q.Load"
+257 „Präferenzen“
+303 "Start"
+311 „Last“
+313 „Präferenzen“
+317 "Wiedergabe beenden"
+321 "Hauptmenü"
+323 „Über uns“
+328 "Hilfe"
+334 "Quit"
+480 „Rückkehr“
+564 "Version [config.version!t]\n"
+570 "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+606 "Seite {}"
+606 „Automatische Speicherstände“
+606 „Schnell-Sparaktionen“
+648 "{#file_time}%A, %B %d %Y, %H:%M"
+648 „leerer Platz“
+668 "<"
+672 "{#auto_page}A"
+675 "{#quick_page}Q"
+681 ">"
+686 "Upload-Synchronisierung"
+690 "Download-Synchronisierung"
+750 "Display"
+751 "Fenster"
+752 "Vollbild"
+757 „Unleserlicher Text“
+758 „Nach den Entscheidungen“
+759 "Transitions"
+776 "Text Speed"
+780 „Automatische Zeitvorspulung“
+787 „Musiklautstärke“
+794 "Lautstärke"
+800 "Test"
+804 „Lautstärke“
+815 "Alle stummschalten"
+934 „Die Dialoggeschichte ist leer.“
+1002 "Tastatur"
+1003 "Maus"
+1006 "Gamepad"
+1019 "Eingabe"
+1020 „Fortschritt im Dialog und Aktivierung der Benutzeroberfläche.“
+1023 "Space"
+1024 „Fördert den Dialog, ohne Entscheidungen zu treffen.“
+1027 „Pfeiltasten“
+1028 „Die Benutzeroberfläche navigieren.“
+1031 "Flucht"
+1032 „Öffnet das Spielmenü.“
+1035 "Ctrl"
+1036 "Überspringt Dialoge, solange er gedrückt gehalten wird."
+1039 "Tab"
+1040 „Schaltet das Überspringen von Dialogen um.“
+1043 "Seite hoch"
+1044 „Springt zurück zum vorherigen Dialog.“
+1047 „Seite abwärts“
+1048 „Springt zum späteren Dialog.“
+1052 „Verbirgt die Benutzeroberfläche.“
+1056 "Macht einen Screenshot."
+1060 "Schaltet assistive Selbstvertonung um (https://www.renpy.org/l/voicing)."
+1064 „Öffnet das Barrierefreiheitsmenü.“
+1070 „Linksklick“
+1074 "Mittlerer Klick"
+1078 "Rechtsklick"
+1082 "Mausrad nach oben"
+1086 „Mausrad nach unten“
+1093 "Rechter Trigger\nA/Untere Taste"
+1097 "Linker Abzug\nLinke Schulter"
+1101 "Rechte Schulter"
+1105 "Steuerkreuz, Sticks"
+1109 "Start, Guide, B/Rechts-Taste"
+1113 "Y/Top Button"
+1116 "Kalibrieren"
+1181 "Ja"
+1182 "Nein"
+1228 "Überspringen"
+1542 "Menü"
