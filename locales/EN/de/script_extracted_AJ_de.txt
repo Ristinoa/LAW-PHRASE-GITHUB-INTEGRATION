@@ -1,0 +1,23 @@
+68 „Du erwachst auf dem kalten Steinboden.“ Dein Kopf pocht, und ein fahles, schwaches Licht erhellt den massiven Holzbogen vor dir.
+73 „Schritte hallen aus der Dunkelheit wider.“ Eine Gestalt tritt ins schwache Licht.
+79 „Die Sterne stehen günstig, Sucher.“ Der König in Gelb erwartet euch im Inneren.
+81 „Die Gestalt deutet auf den reich verzierten Türrahmen und verschwindet dann im dunklen Bibliothekskorridor, sodass du allein zurückbleibst.“
+104 „Die Schatten dehnen sich in der feuchten, verfallenden Bibliothek aus.“ Die bleiche Maske ruht auf einem Samtkissen, ihre hohlen Augen auf dich gerichtet.“
+112 "Du stehst vor dem Thron von Carcosa, [Spielername]. Du hast die Hallen des Untergangs betreten.
+113 "Sprich deine Wahrheit, bevor der Vorhang fällt." Warum sollte ich im Schatten des schlafenden Sees verharren?
+130 „Ich besitze den wahren Text des Stücks, und ich werde ihn verbrennen, wenn du schläfst.“
+132 „Eine Lüge... gewoben aus Papier und Tinte.“ Du glaubst, du kannst etwas zerstören, das keinen Anfang und kein Ende hat?
+133 „Die Maske fällt.“ Der Vorhang hebt sich.
+141 »Die Sterne stehen noch nicht richtig, Eure Majestät; Euer Schlaf ist nur ein Echo einer kosmischen Prophezeiung.«
+143 „Du wagst es, mir etwas über die Ausrichtung des Kosmos zu erzählen, du kleines Insekt?“
+144 „Ich bin der Kosmos.“ Die Sterne stehen nur dann günstig, wenn ich atme.
+152 „Ich habe das gelbe Zeichen an einem Ort versteckt, wo es kein menschliches Auge jemals finden wird, um die ewige Verehrung auch in deiner Abwesenheit zu gewährleisten.“
+154 „Ah… ein als Drohung getarntes Opfer der Hingabe.“
+155 „Das Symbol unseres Ruhms zu horten, damit es niemand erblicke.“
+157 „Die leuchtenden Augen des Wesens werden weicher.“ Ein tiefer, schwerer Seufzer hallt durch den Raum.
+161 „Sehr wohl, Sterblicher.“ Bewahrt das Zeichen sicher auf, und ich werde noch tausend Jahre lang von Carcosas Rückkehr träumen.“
+165 „Die unheimliche Präsenz gleitet in einen tiefen, schweren Schlaf.“ Der Raum kehrt in seinen Normalzustand zurück.
+175 „Du hast die Menschheit vor dem König in Gelb gerettet … vorerst.“
+183 „Carcosa erwacht.“
+197 „Die Barriere zwischen den Welten zerbricht.“ Die Korruption sickert in Ihr Betriebssystem ein.“
+198 "VERBINDUNG UNTERBROCHEN." SYSTEM BESCHÄDIGT.{w=0.5}.{w=0.5}."
