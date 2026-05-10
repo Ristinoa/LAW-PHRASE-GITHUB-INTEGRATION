@@ -1,0 +1,304 @@
+28 „Klicken Sie hier, um das Video abzuspielen.“
+28 „Selbstäußerungsstörung“.
+29 „Sprachausgabe über die Zwischenablage aktiviert.“
+30 „Selbstvertonung aktiviert.“
+32 "bar"
+33 „ausgewählt“
+34 "viewport"
+35 „horizontale Schriftrolle“
+36 „vertikale Bildlaufrolle“
+37 "aktivieren"
+38 "deaktivieren"
+39 "Erhöhung"
+40 "Abnahme"
+134 „Selbstinszenierung“
+137 „Die Unterstützung für Selbstsprecher ist bei der Verwendung eines Touchscreens eingeschränkt.“
+139 "Aus"
+143 „Text-to-Speech“
+147 „Klemmbrett“
+151 "Debug"
+163 "Zurücksetzen"
+167 „Selbststimmende Lautstärkeabsenkung“
+180 "Mono-Audio"
+182 "Aktivieren"
+186 "Behinderung"
+198 "Schriftartüberschreibung"
+200 "Standard"
+204 "DejaVu Sans"
+208 "Opendyslexic"
+212 „Text mit hohem Kontrast“
+224 „Textgrößenanpassung“
+235 „Zeilenabstandsskalierung“
+246 "Kerning"
+267 „Barrierefreiheitsmenü“. Verwenden Sie die Pfeiltasten nach oben und unten zur Navigation und die Eingabetaste, um Schaltflächen und Leisten zu aktivieren.
+288 „Selbstvertonung und Audio“
+292 "Text"
+306 „Die Optionen in diesem Menü sollen die Zugänglichkeit verbessern.“ Sie funktionieren möglicherweise nicht mit allen Spielen, und manche Optionskombinationen können das Spiel unspielbar machen. Das Problem liegt nicht am Spiel oder an der Engine. Um beim Ändern der Schriftart optimale Ergebnisse zu erzielen, sollten Sie die Textgröße möglichst beibehalten.
+26 "{#weekday}Montag"
+26 "{#weekday}Dienstag"
+26 "{#weekday}Mittwoch"
+26 "{#weekday}Donnerstag"
+26 "{#weekday}Freitag"
+26 "{#weekday}Samstag"
+26 "{#weekday}Sonntag"
+37 "{#weekday_short}Mon"
+37 "{#weekday_short}Tue"
+37 "{#weekday_short}Wed"
+37 "{#weekday_short}Thu"
+37 "{#weekday_short}Fri"
+37 "{#weekday_short}Sat"
+37 "{#weekday_short}Sun"
+47 "{#month}Januar"
+47 "{#month}Februar"
+47 "{#month}March"
+47 "{#month}April"
+47 "{#month}Mai"
+47 "{#month}Juni"
+47 "{#month}July"
+47 "{#month}August"
+47 "{#month}September"
+47 "{#month}Oktober"
+47 "{#month}November"
+47 "{#month}Dezember"
+63 "{#month_short}Jan"
+63 "{#month_short}Feb"
+63 "{#month_short}Mar"
+63 "{#month_short}Apr"
+63 "{#month_short}May"
+63 "{#month_short}Jun"
+63 "{#month_short}Jul"
+63 "{#month_short}Aug"
+63 "{#month_short}Sep"
+63 "{#month_short}Oct"
+63 "{#month_short}Nov"
+63 "{#month_short}Dec"
+258 "%b %d, %H:%M"
+395 "Speicherplatz %s speichern: [Text]"
+481 "Lade Slot %s: [Text]"
+534 "Löschen Sie den Slot [Text]"
+613 "Dateiseite automatisch"
+615 "Dateiseite schnell"
+617 "Dateiseite [Text]"
+816 "Nächste Dateiseite."
+888 "Vorherige Dateiseite."
+949 „Schnellspeicherung abgeschlossen.“
+964 "Schnell speichern."
+983 "Schnellladung."
+416 "Sprache [Text]"
+786 "Öffne das [Text-]Verzeichnis."
+712 „Der interaktive Regisseur ist hier nicht aktiviert.“
+1512 "⬆"
+1518 "⬇"
+1582 "Fertig"
+1592 "(Aussage)"
+1593 "(Tag)"
+1594 "(Attribute)"
+1595 "(transform)"
+1620 "(transition)"
+1632 "(Kanal)"
+1633 "(Dateiname)"
+1662 "Wechsel"
+1664 "Hinzufügen"
+1667 "Abbrechen"
+1670 "Entfernen"
+1705 "Statement:"
+1726 "Tag:"
+1742 "Attribute:"
+1753 „Klicken Sie, um das Attribut umzuschalten, klicken Sie mit der rechten Maustaste, um das negative Attribut umzuschalten.“
+1765 "Transformationen:"
+1776 „Klicken Sie, um die Transformation festzulegen, klicken Sie mit der rechten Maustaste, um das Produkt zur Transformationsliste hinzuzufügen.“
+1777 „Passen Sie director.transforms an, um weitere Transformationen hinzuzufügen.“
+1789 "Behind:"
+1800 „Zum Festlegen klicken, mit der rechten Maustaste klicken, um zur Liste hinzuzufügen.“
+1812 "Transition:"
+1822 "Zum Einstellen klicken."
+1823 „Passen Sie director.transitions an, um weitere Übergänge hinzuzufügen.“
+1835 "Kanal:"
+1846 „Passen Sie director.audio_channels an, um weitere Kanäle hinzuzufügen.“
+1858 "Audio Filename:"
+448 "Sind Sie sicher?"
+449 "Sind Sie sicher, dass Sie diesen Spielstand löschen möchten?"
+450 "Sind Sie sicher, dass Sie Ihren Spielstand überschreiben möchten?"
+451 „Beim Laden gehen nicht gespeicherte Fortschritte verloren.\nSind Sie sicher, dass Sie dies tun möchten?“
+452 "Sind Sie sicher, dass Sie aufhören wollen?"
+453 "Möchten Sie wirklich zum Hauptmenü zurückkehren?\nDadurch gehen nicht gespeicherte Spielfortschritte verloren."
+454 „Sind Sie sicher, dass Sie dort weitermachen möchten, wo Sie aufgehört haben?“
+455 "Sind Sie sicher, dass Sie die Wiederholung beenden möchten?"
+456 "Bist du sicher, dass du mit dem Seilspringen anfangen willst?"
+457 „Sind Sie sicher, dass Sie zur nächsten Auswahlmöglichkeit springen möchten?“
+458 „Sind Sie sicher, dass Sie den nicht sichtbaren Dialog überspringen und zur nächsten Auswahlmöglichkeit gelangen möchten?“
+459 „Dieser Spielstand wurde auf einem anderen Gerät erstellt.“ Böswillig erstellte Speicherdateien können Ihrem Computer schaden. Vertraust du dem Ersteller dieses Spielstands und allen, die die Datei verändert haben könnten?
+460 "Vertrauen Sie dem Gerät, auf dem der Spielstand erstellt wurde?" Sie sollten nur dann „Ja“ auswählen, wenn Sie der einzige Benutzer des Geräts sind.
+325 "Screenshot konnte nicht als %s gespeichert werden."
+346 „Screenshot gespeichert als %s.“
+257 "Überspringmodus"
+344 „Dieses Programm enthält freie Software unter einer Reihe von Lizenzen, darunter die MIT-Lizenz und die GNU Lesser General Public License. Eine vollständige Liste der Software, einschließlich Links zum vollständigen Quellcode, finden Sie {a=https://www.renpy.org/l/license}hier{/a}.
+295 "display"
+315 "transitions"
+324 "Übergänge überspringen"
+326 „Video-Sprites“
+335 "leeres Fenster anzeigen"
+344 "Textgeschwindigkeit"
+352 "joystick"
+352 "Joystick..."
+359 "skip"
+362 "ungesehenen Text überspringen"
+367 "Ungesehenen Text überspringen"
+369 "beginne zu überspringen"
+373 „nach den Entscheidungen“
+380 "Nach den Auswahlmöglichkeiten überspringen"
+382 „automatische Zeitvorspulung“
+396 "auto-forward"
+403 "Automatische Vorwärtsfahrt"
+406 „Automatische Weiterleitung nach Klick“
+415 "automatischer Umzug"
+424 "Warten auf Stimme"
+433 "Stimmhaltung"
+442 „Selbststimmgebung“
+445 "Selbstvertonung aktivieren"
+447 "Selbstauskunft deaktiviert"
+451 „Selbststimmen-Lautstärkeabfall“
+459 "Klemmbrett-Stimmung"
+462 "Zwischenablage-Sprachausgabe aktivieren"
+464 "Zwischenablage-Sprachausgabe deaktivieren"
+468 "Debug-Stimme"
+471 "Debug-Sprachausgabe aktivieren"
+473 "Debug-Sprachausgabe deaktivieren"
+477 "Audio hervorheben"
+486 "Rollback-Seite"
+496 "gl powersave"
+502 "gl framerate"
+505 "gl tearing"
+508 "Schriftarttransformation"
+511 "Schriftgröße"
+519 "Schriftzeilenabstand"
+527 "Systemcursor"
+536 "Renderer-Menü"
+539 „Barrierefreiheitsmenü“
+542 „Text mit hohem Kontrast“
+551 "Audio bei minimiertem Fenster"
+560 "Audio bei fehlendem Fokus"
+569 "Web-Cache-Vorladen"
+584 „Sprachausgabe nach dem Spielmenü“
+593 "Fensterposition wiederherstellen"
+602 "Mono-Audio"
+611 "Schriftkernung"
+619 "reset"
+632 „Hauptvolumen“
+633 "Musiklautstärke"
+634 „Lautstärke“
+635 "Lautstärke"
+636 "Hauptmodus stummschalten"
+637 "Musik stumm"
+638 "Stummer Ton"
+639 "stumme Stimme"
+640 "Alle stummschalten"
+723 "Zwischenablage-Sprachausgabe aktiviert." Drücken Sie „Umschalt+C“, um die Funktion zu deaktivieren.
+725 "Self-voicing would say \"[renpy.display.tts.last]\". Drücken Sie „Alt+Umschalt+V“, um die Funktion zu deaktivieren.
+727 "Selbstvertonung aktiviert." Drücken Sie „v“, um zu deaktivieren.
+420 „Sprechblasen-Editor“
+425 "(ausblenden)"
+436 "(klare Restblasen)"
+70 „Sync heruntergeladen.“
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+

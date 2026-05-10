@@ -1,0 +1,87 @@
+249 "Zurück"
+250 „Geschichte“
+251 "Überspringen"
+252 "Auto"
+253 "Speichern"
+254 "Q.Save"
+255 "Q.Load"
+256 „Präferenzen“
+302 "Start"
+310 "Last"
+312 „Präferenzen“
+316 "Wiedergabe beenden"
+320 "Hauptmenü"
+322 „Über uns“
+327 „Hilfe“
+333 "Quit"
+478 "Rückkehr"
+562 "Version [config.version!t]\n"
+568 "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+604 "Seite {}"
+604 „Automatische Speicherstände“
+604 „Schnell-Sparaktionen“
+646 "{#file_time}%A, %B %d %Y, %H:%M"
+646 "leerer Platz"
+666 "<"
+670 "{#auto_page}A"
+673 "{#quick_page}Q"
+679 ">"
+684 "Upload-Synchronisierung"
+688 "Download Sync"
+748 "Anzeige"
+749 "Fenster"
+750 "Vollbild"
+755 „Unleserlicher Text“
+756 „Nach den Entscheidungen“
+757 "Transitions"
+764 "Language"
+765 "Englisch"
+766 "Deutsch"
+767 "Japanisch"
+778 "Text Speed"
+782 „Automatische Zeitvorspulung“
+789 „Musiklautstärke“
+796 "Lautstärke"
+802 "Test"
+806 "Lautstärke"
+817 "Alle stummschalten"
+936 „Die Dialoggeschichte ist leer.“
+1004 "Tastatur"
+1005 "Maus"
+1008 "Gamepad"
+1021 "Eingabe"
+1022 „Fortschritt im Dialog und Aktivierung der Benutzeroberfläche.“
+1025 "Space"
+1026 „Fördert den Dialog, ohne Entscheidungen zu treffen.“
+1029 „Pfeiltasten“
+1030 „Die Benutzeroberfläche navigieren.“
+1033 "Escape"
+1034 „Öffnet das Spielmenü.“
+1037 "Ctrl"
+1038 "Überspringt Dialoge, solange er gedrückt gehalten wird."
+1041 "Tab"
+1042 „Schaltet das Überspringen von Dialogen um.“
+1045 „Seite hoch“
+1046 „Springt zurück zum vorherigen Dialog.“
+1049 "Seite abwärts"
+1050 „Springt zum späteren Dialog.“
+1054 „Verbirgt die Benutzeroberfläche.“
+1058 "Macht einen Screenshot."
+1062 "Schaltet assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a} ein und aus."
+1066 „Öffnet das Barrierefreiheitsmenü.“
+1072 "Linksklick"
+1076 "Mittlerer Klick"
+1080 "Rechtsklick"
+1084 "Mausrad nach oben"
+1088 „Mausrad nach unten“
+1095 "Rechter Trigger\nA/Untere Taste"
+1099 "Linker Abzug\nLinke Schulter"
+1103 "Rechte Schulter"
+1107 „Steuerkreuz, Sticks“
+1111 "Start, Guide, B/Rechts-Taste"
+1115 "Y/Top Button"
+1118 "Kalibrieren"
+1183 "Ja"
+1184 "Nein"
+1230 "Skipping"
+1544 "Menü"
