@@ -81,5 +81,3 @@
 144 "Do you pet it, it looks really cute"
 146 "Pet it"
 152 "Do not pet it, its venomous"
-167 "Swim Away"
-179 "Return to the Boat, you have seen enough"
