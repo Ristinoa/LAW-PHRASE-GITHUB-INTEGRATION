@@ -31,6 +31,13 @@ def escape_for_rpy(s: str) -> str:
     # Escape backslash first, then double quote
     return s.replace('\\', '\\\\').replace('"', '\\"')
 
+# Strip surrounding quote characters from translation text.
+# This handles common quotation marks used in German, Spanish, Japanese, Chinese, etc.
+quote_chars = '"\'“”„«»‹›‘’‚‛「」『』〝〞＂＇'
+
+def strip_surrounding_quotes(s: str) -> str:
+    return s.strip(quote_chars)
+
 def load_translations(path):
     translations = defaultdict(list)
     with io.open(path, 'r', encoding='utf-8') as f:
@@ -42,7 +49,7 @@ def load_translations(path):
             if not m:
                 continue
             key, txt = m.groups()
-            txt = txt.strip('"„“')
+            txt = strip_surrounding_quotes(txt)
             translations[key].append(txt)
     return translations
 
@@ -180,12 +187,12 @@ def process(original_path, translations, output_path, language):
 
 if __name__ == '__main__':
     if len(sys.argv) != 2:
-        print("Usage: python3 apply_translation.py <lang_code>")
+        print("Usage: python3 apply_translation.py <locale_code>")
         sys.exit(1)
 
     lang = sys.argv[1]
-    lang_dir = f"locales/EN/{lang}"
-    if not os.path.exists(lang_dir):
+    lang_dir = os.path.join("locales", "EN", lang)
+    if not os.path.isdir(lang_dir):
         print(f"Error: Language folder {lang_dir} does not exist.")
         sys.exit(1)
 
@@ -193,15 +200,16 @@ if __name__ == '__main__':
         "de": "german",
         "es_es": "spanish",
         "ja_jp": "japanese",
-        "zh": "chinese"
+        "zh": "chinese",
     }
 
-    if lang not in lang_map:
-        print(f"Error: Unknown language code {lang}")
+    language = lang_map.get(lang)
+    if language is None:
+        print(f"Error: No Ren'Py language mapping for locale code '{lang}'.")
+        print("Supported locale codes:", ", ".join(sorted(lang_map.keys())))
         sys.exit(1)
 
-    language = lang_map[lang]
-    output_dir = f"output_files/{lang}"
+    output_dir = os.path.join("output_files", lang)
     os.makedirs(output_dir, exist_ok=True)
 
     # Process each translation file
